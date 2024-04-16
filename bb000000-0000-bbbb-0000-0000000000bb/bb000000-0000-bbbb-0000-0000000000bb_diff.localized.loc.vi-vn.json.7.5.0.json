@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Bạn phải là người quản trị bộ sưu tập trang web này.",
+          "UnableToSetSiteSelectedPermission": "Không thể thiết lập Quyền đã chọn cho trang web này."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Phạm vi"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Chọn các thuật ngữ con"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Các phương tiện đã chọn"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Tự động phát"
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "Quyền cần thiết chưa được đồng ý. Vui lòng nhấp vào nút để đồng ý quyền."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Email của bạn đã được xác nhận và tài khoản đã được tạo. Bây giờ bạn sẽ được chuyển hướng đến quá trình hướng dẫn sử dụng.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Email của bạn đã được xác nhận và tài khoản của bạn đã được gửi để được phê duyệt. Bạn có thể đóng trang này."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Hiển thị",
+        "HideForgotPassword": "Ẩn quên mật khẩu"
+      }
+    }
+  }
+}
