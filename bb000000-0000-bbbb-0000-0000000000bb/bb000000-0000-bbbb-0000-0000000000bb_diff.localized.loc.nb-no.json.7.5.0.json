@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Du må være en nettstedsamlingadministrator for dette nettstedet.",
+          "UnableToSetSiteSelectedPermission": "Kan ikke angi tillatelse for valgt nettsted."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Omfang"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Velg underordnede termer"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Valgte medier"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Autospill"
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "De nødvendige tillatelsene er ikke samtykket. Klikk på knappen for å samtykke til tillatelsen."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Din e-postadresse er bekreftet og kontoen er opprettet. Du vil nå bli omdirigert til opplæringen.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Din e-post er bekreftet, og kontoen din er sendt for godkjenning. Du kan lukke denne siden."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Visning",
+        "HideForgotPassword": "Skjul glemt passord"
+      }
+    }
+  }
+}
