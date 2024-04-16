@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "U moet een siteverzamelingsbeheerder zijn van deze site.",
+          "UnableToSetSiteSelectedPermission": "Kan de geselecteerde machtigingvoor deze site niet instellen."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Scope"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Selecteer onderliggende termen"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Geselecteerde media"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Autoplay"
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "De vereiste machtigingen zijn niet geaccepteerd. Klik op de knop om de machtiging te accepteren."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Uw e-mail is bevestigd en uw account is aangemaakt. U wordt nu doorgestuurd naar de onboarding.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Uw e-mail is bevestigd en uw account is ter goedkeuring verzonden. U kunt deze pagina sluiten."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Weergave",
+        "HideForgotPassword": "Verberg wachtwoord vergeten"
+      }
+    }
+  }
+}
