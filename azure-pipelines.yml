@@ -18,6 +18,7 @@ steps:
     script: |
       # Write your PowerShell commands here.
       ls
+      Get-Content -Path ./README.md
       Write-Host "Hello World"
 
 
