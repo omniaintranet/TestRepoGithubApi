@@ -13,9 +13,10 @@ steps:
 - task: PowerShell@2
   inputs:
     targetType: 'inline'
+    workingDirectory: $(Build.SourcesDirectory)
     script: |
       # Write your PowerShell commands here.
-      
+      ls
       Write-Host "Hello World"
 
 
