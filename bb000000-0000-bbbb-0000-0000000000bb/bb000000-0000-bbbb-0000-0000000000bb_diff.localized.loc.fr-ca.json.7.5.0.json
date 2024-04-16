@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Vous devez être administrateur de la collection de sites de ce site.",
+          "UnableToSetSiteSelectedPermission": "Impossible de définir les autorisations de site sélectionné pour ce site."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Portée"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Sélectionner les termes enfants"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Médias sélectionnés"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Lecture automatique"
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "Les autorisations requises ne sont pas consenties. Veuillez cliquer sur le bouton pour consentir à l'autorisation."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Votre adresse e-mail a été confirmée et votre compte a été créé. Vous serez maintenant redirigé vers l'intégration.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Votre courriel a été confirmé et votre compte a été envoyé pour approbation. Vous pouvez fermer cette page."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Affichage",
+        "HideForgotPassword": "Masquer mot de passe oublié"
+      }
+    }
+  }
+}
