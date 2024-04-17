@@ -1,0 +1,248 @@
+{
+  "OTAD": {
+    "QueryableProperties": {
+      "Forms": "Skjemaer"
+    },
+    "System": {
+      "TenantContact": {
+        "UserSyncContacts": "Synkroniser brukerkontakter",
+        "ExternalUserSyncContactEmail": "Legg til ekstern brukerkontakt e-post"
+      },
+      "Licenses": "Lisenser",
+      "AzureAdPermissions": {
+        "ErrorMissingAdPermissions": "De nødvendige tillatelsene er ikke samtykket. Klikk på knappen for å samtykke til tillatelsen."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "FormRollup": {
+          "Title": "Skjemarullering",
+          "Description": ""
+        }
+      },
+      "RecurringSetting": {
+        "Daily": "Daglig",
+        "Weekly": "Ukentlig",
+        "Monthly": "Månedlig",
+        "Never": "Aldri",
+        "Title": "Tittel",
+        "Description": "Beskrivelse",
+        "FeedbackEmail": "Tilbakemeldings-e-post",
+        "Levels": "Nivåer",
+        "WeakLevelPercentage": "Prosentnivå - Svakt",
+        "GoodLevelPercentage": "Prosentnivå - Godt",
+        "EveryWeekday": "Hver ukedag",
+        "Every": "Hver",
+        "Days": "dag(er)",
+        "Weeks": "uke(r)",
+        "Months": "måned(er)",
+        "DayOfWeeks": {
+          "Monday": "Mandag",
+          "Tuesday": "Tirsdag",
+          "Wednesday": "Onsdag",
+          "Thursday": "Torsdag",
+          "Friday": "Fredag",
+          "Saturday": "Lørdag",
+          "Sunday": "Søndag",
+          "Day": "Dag",
+          "Weekday": "Ukedag",
+          "WeekendDay": "Helgedag"
+        },
+        "Day": "Dag",
+        "OfEvery": "av hver",
+        "The": "Den",
+        "WeekOfMonth": {
+          "First": "Første",
+          "Second": "Andre",
+          "Third": "Tredje",
+          "Fourth": "Fjerde",
+          "Last": "Siste"
+        },
+        "StartDate": "Startdato",
+        "NoEndDate": "Ingen sluttdato",
+        "EndBy": "Slutt innen",
+        "SentOutTimeText": "Hvilken tid ønsker du at signeringsskjemaet skal sendes ut?",
+        "InvalidDayRange": "Dagen er ikke gyldig"
+      }
+    },
+    "Forms": {
+      "Poll": "Avstemning",
+      "Survey": "Undersøkelse",
+      "Checkup": "Helsesjekk",
+      "Template": "Mal",
+      "AddQuestion": "Legg til spørsmål",
+      "CreateForm": "Opprett skjema",
+      "LimitResponseTime": {
+        "Title": "Begrens svarfrist",
+        "BeforeStartTimeMessage": "Dette skjemaet åpnes for svar [[Dato]] kl. [[Tid]].",
+        "AfterEndTimeMessage": "Dette skjemaet er stengt for svar."
+      },
+      "Scope": {
+        "Title": "Omfang",
+        "CurrentApp": "[[Gjeldende app]]"
+      },
+      "ScopeType": {
+        "Title": "Omfangstype",
+        "App": "App",
+        "BusinessProfile": "Forretningsprofil"
+      },
+      "ActionButton": {
+        "AddQuestion": "Legg til spørsmål"
+      },
+      "Admin": {
+        "EditForm": {
+          "WhenClosed": "Når lukket",
+          "AllowMultiQuestions": "Tillat flere spørsmål",
+          "ShowFormSettings": "Vis skjemainnstillinger"
+        },
+        "CustomChartColors": "Egendefinerte diagramfarger",
+        "Templates": "Mal",
+        "Types": "Typer",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Fjern skjemamal",
+          "Message": "Er du sikker på at du vil fjerne denne skjemamalen?",
+          "ErrorMessageWithTemplateIsInUse": "Skjemamalen brukes for øyeblikket og kan ikke slettes. Sørg for at det ikke er noen skjemaer og skjematyper som bruker denne skjemamalen før du prøver å slette den på nytt."
+        },
+        "PropertySet": "Egenskapssett",
+        "RemoveFormTypeConfirmation": {
+          "Title": "Fjern skjematype",
+          "Message": "Er du sikker på at du vil fjerne denne skjematypen?",
+          "ErrorMessageTypeInUse": "Skjematypen brukes for øyeblikket og kan ikke slettes. Sørg for at det ikke er noen skjemaer som bruker denne skjematypen før du prøver å slette den på nytt."
+        },
+        "AddFilter": "Legg til filter",
+        "Display": "Visning",
+        "Filter": "Filter",
+        "Query": "Spørring",
+        "Scope": "Omfang",
+        "QueryScope": {
+          "Tenant": "Tenant",
+          "BusinessProfiles": "Forretningsprofiler",
+          "Apps": "Apper"
+        }
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Skjemavisning",
+          "ListView": "Listevisning",
+          "NoResultText": "Ingen resultater",
+          "PagingType": {
+            "NoPaging": "Ingen paginering",
+            "Classic": "Klassisk",
+            "Scroll": "Rulling"
+          },
+          "Paging": "Paginering",
+          "SortBy": "Sorter etter",
+          "View": "Visning",
+          "PageSize": "Sidestørrelse",
+          "AddColumn": "Legg til kolonne",
+          "DateFormat": "Datoformat",
+          "Width": "Bredde",
+          "CustomLabel": "Egendefinert etikett",
+          "ShowLabel": "Vis etikett",
+          "DragAndDrop": "Dra og slipp"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "Scope": "Omfang"
+        }
+      },
+      "Status": "Status",
+      "ErrorMessages": {
+        "Unauthorized": "Du har ikke tillatelse til å opprette avstemningen på dette stedet."
+      }
+    },
+    "SignOffRequest": {
+      "UpdateRequest": "Oppdater forespørsel",
+      "ScheduleSendOut": "Planlegg utsendelse",
+      "InvalidDate": "Ugyldig dato",
+      "Button": {
+        "SendRequest": "Send forespørsel"
+      },
+      "Dialog": {
+        "DeleteRecurrenceTitle": "Slett gjentakende signeringsskjema",
+        "DeleteRecurrenceMessage": "Er du sikker på at du vil slette denne gjentakende forespørselen?"
+      },
+      "RequestStatus": {
+        "Scheduled": "Planlagt"
+      },
+      "RecurringRequests": {
+        "Title": "Gjentakende forespørsler",
+        "Name": "Navn",
+        "NextRequest": "Neste forespørsel",
+        "SafetyInspection": "Sikkerhetsinspeksjon",
+        "SentOutTimeTitle": "Hvilken tid ønsker du at signeringsskjemaet skal sendes ut?",
+        "Save": "Lagre",
+        "RecurringSetting": "Gjentakende innstilling"
+      },
+      "RecurringInfo": {
+        "EveryDay": "Kjør hver {0} dag(er)",
+        "EveryWeekday": "Kjør hver ukedag",
+        "EveryWeek": "Kjør hver {0} uke(r) på {1}",
+        "DayOfMonth": "Kjør på dag {0} av hver {1} måned(er)",
+        "WeekDayOfMonth": "Kjør på den {0} {1} av hver {2} måned(er)",
+        "PleaseSelectRecurrence": "Velg gjentakelsesinnstilling"
+      }
+    },
+    "UserManagement": {
+      "Users": {
+        "Scope": "Omfang",
+        "ScopeType": "Omfangstype",
+        "ChangeScope": {
+          "Button": "Endre omfang",
+          "Tenant": "Tenant",
+          "BusinessProfile": "Forretningsprofil",
+          "Group": "Gruppe"
+        },
+        "ApprovalCommentTitle": "Kommentar sendt til bruker"
+      },
+      "Groups": {
+        "DeleteGroupsErrorMessageGroupsInUse": "En eller flere grupper kan ikke slettes fordi de har brukere med gruppeomfang. Fjern markeringen for disse gruppene og prøv igjen.",
+        "DeleteGroupErrorMessageGroupInUse": "Denne gruppen har noen brukere opprettet under dens omfang. Slett alle disse brukerne for å slette den.",
+        "Scope": "Omfang",
+        "Owners": "Eiere",
+        "AddExistingUser": "Legg til eksisterende bruker",
+        "CreateAndAddNewUser": "Opprett og legg til ny bruker"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Vennligst forsikre deg om at den nåværende brukeren er medlem av gruppeeier for å utføre denne operasjonen"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Oppsett av Sharepoint-teamsidemal"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "Scope": "Omfang",
+        "ScopeType": "Omfangstype"
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "Scope": "Omfang",
+          "ScopeType": "Omfangstype"
+        },
+        "ScopeTypes": {
+          "Tenant": "Tenant",
+          "BusinessProfile": "Forretningsprofil",
+          "Group": "Gruppe"
+        }
+      }
+    }
+  }
+}
