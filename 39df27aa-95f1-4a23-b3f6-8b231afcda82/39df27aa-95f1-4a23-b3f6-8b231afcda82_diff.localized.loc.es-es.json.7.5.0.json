@@ -1,0 +1,248 @@
+{
+  "OTAD": {
+    "QueryableProperties": {
+      "Forms": "Formularios"
+    },
+    "System": {
+      "TenantContact": {
+        "UserSyncContacts": "Sincronizar contactos de usuario",
+        "ExternalUserSyncContactEmail": "Agregar correo electrónico de contacto de usuario externo"
+      },
+      "Licenses": "Licencias",
+      "AzureAdPermissions": {
+        "ErrorMissingAdPermissions": "Los permisos requeridos no están consentidos. Haz clic en el botón paraconsentir el permiso."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "FormRollup": {
+          "Title": "Agrupación de formularios",
+          "Description": ""
+        }
+      },
+      "RecurringSetting": {
+        "Daily": "Diario",
+        "Weekly": "Semanal",
+        "Monthly": "Mensual",
+        "Never": "Nunca",
+        "Title": "Título",
+        "Description": "Descripción",
+        "FeedbackEmail": "Correo electrónico de comentarios",
+        "Levels": "Niveles",
+        "WeakLevelPercentage": "Porcentaje de nivel débil",
+        "GoodLevelPercentage": "Porcentaje de nivel bueno",
+        "EveryWeekday": "Todos los días laborables",
+        "Every": "Cada",
+        "Days": "día(s)",
+        "Weeks": "semana(s)",
+        "Months": "mes(es)",
+        "DayOfWeeks": {
+          "Monday": "Lunes",
+          "Tuesday": "Martes",
+          "Wednesday": "Miércoles",
+          "Thursday": "Jueves",
+          "Friday": "Viernes",
+          "Saturday": "Sábado",
+          "Sunday": "Domingo",
+          "Day": "Día",
+          "Weekday": "Día laborable",
+          "WeekendDay": "Día de fin de semana"
+        },
+        "Day": "Día",
+        "OfEvery": "de cada",
+        "The": "El",
+        "WeekOfMonth": {
+          "First": "Primero",
+          "Second": "Segundo",
+          "Third": "Tercero",
+          "Fourth": "Cuarto",
+          "Last": "Último"
+        },
+        "StartDate": "Fecha de inicio",
+        "NoEndDate": "Sin fecha de finalización",
+        "EndBy": "Finalizar el",
+        "SentOutTimeText": "¿A qué hora quieres que se envíe la solicitud de aprobación?",
+        "InvalidDayRange": "El día no es válido"
+      }
+    },
+    "Forms": {
+      "Poll": "Encuesta",
+      "Survey": "Sondeo",
+      "Checkup": "Chequeo",
+      "Template": "Plantilla",
+      "AddQuestion": "Agregar pregunta",
+      "CreateForm": "Crear formulario",
+      "LimitResponseTime": {
+        "Title": "Limitar tiempo de respuesta",
+        "BeforeStartTimeMessage": "Este formulario estará abierto para respuestas el [[Fecha]] a las [[Hora]].",
+        "AfterEndTimeMessage": "Este formulario está cerrado para respuestas."
+      },
+      "Scope": {
+        "Title": "Ámbito",
+        "CurrentApp": "[[Aplicación actual]]"
+      },
+      "ScopeType": {
+        "Title": "Tipo de ámbito",
+        "App": "Aplicación",
+        "BusinessProfile": "Perfil empresarial"
+      },
+      "ActionButton": {
+        "AddQuestion": "Agregar pregunta"
+      },
+      "Admin": {
+        "EditForm": {
+          "WhenClosed": "Cuando esté cerrado",
+          "AllowMultiQuestions": "Permitir múltiples preguntas",
+          "ShowFormSettings": "Mostrar configuración del formulario"
+        },
+        "CustomChartColors": "Colores de gráfico personalizados",
+        "Templates": "Plantillas",
+        "Types": "Tipos",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Eliminar plantilla de formulario",
+          "Message": "¿Estás seguro de que quieres eliminar esta plantillade formulario?",
+          "ErrorMessageWithTemplateIsInUse": "La plantilla de formulario está actualmente en uso y no se puede eliminar. Asegúrate de que no haya formularios y tipos de formulario utilizados en esta plantilla de formulario antes de intentar eliminarla nuevamente."
+        },
+        "PropertySet": "Conjunto de propiedades",
+        "RemoveFormTypeConfirmation": {
+          "Title": "Eliminar tipo de formulario",
+          "Message": "¿Estás seguro de que quieres eliminar este tipo de formulario?",
+          "ErrorMessageTypeInUse": "El tipo de formulario está actualmente en uso y no se puede eliminar. Asegúrate de que no haya formularios utilizados en este tipo de formulario antes de intentar eliminarlo nuevamente."
+        },
+        "AddFilter": "Agregar filtro",
+        "Display": "Mostrar",
+        "Filter": "Filtro",
+        "Query": "Consulta",
+        "Scope": "Ámbito",
+        "QueryScope": {
+          "Tenant": "Inquilino",
+          "BusinessProfiles": "Perfiles empresariales",
+          "Apps": "Aplicaciones"
+        }
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Vista de formulario",
+          "ListView": "Vista de lista",
+          "NoResultText": "Texto sin resultados",
+          "PagingType": {
+            "NoPaging": "Sin paginación",
+            "Classic": "Clásica",
+            "Scroll": "Desplazamiento"
+          },
+          "Paging": "Paginación",
+          "SortBy": "Ordenar por",
+          "View": "Vista",
+          "PageSize": "Tamaño de página",
+          "AddColumn": "Agregar columna",
+          "DateFormat": "Formato",
+          "Width": "Ancho",
+          "CustomLabel": "Etiqueta personalizada",
+          "ShowLabel": "Mostrar etiqueta",
+          "DragAndDrop": "Arrastrar y soltar"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "Scope": "Ámbito"
+        }
+      },
+      "Status": "Estado",
+      "ErrorMessages": {
+        "Unauthorized": "No tienes autorización para crear la encuesta en esta ubicación."
+      }
+    },
+    "SignOffRequest": {
+      "UpdateRequest": "Actualizar solicitud",
+      "ScheduleSendOut": "Programar envío",
+      "InvalidDate": "Fecha no válida",
+      "Button": {
+        "SendRequest": "Enviar solicitud"
+      },
+      "Dialog": {
+        "DeleteRecurrenceTitle": "Eliminar recurrencia de solicitud de aprobación",
+        "DeleteRecurrenceMessage": "¿Estás seguro de que quieres eliminar esta solicitud recurrente?"
+      },
+      "RequestStatus": {
+        "Scheduled": "Programado"
+      },
+      "RecurringRequests": {
+        "Title": "Solicitudes recurrentes",
+        "Name": "Nombre",
+        "NextRequest": "Siguiente solicitud",
+        "SafetyInspection": "Inspección deseguridad",
+        "SentOutTimeTitle": "¿A qué hora quieres que se envíe la solicitud de aprobación?",
+        "Save": "Guardar",
+        "RecurringSetting": "Configuración recurrente"
+      },
+      "RecurringInfo": {
+        "EveryDay": "Ejecutar cada {0} día(s)",
+        "EveryWeekday": "Ejecutar todos los días laborables",
+        "EveryWeek": "Ejecutar cada {0} semana(s) en {1}",
+        "DayOfMonth": "Ejecutar el día {0} de cada {1} mes(es)",
+        "WeekDayOfMonth": "Ejecutar el {0} {1} de cada {2} mes(es)",
+        "PleaseSelectRecurrence": "Selecciona la configuración de recurrencia"
+      }
+    },
+    "UserManagement": {
+      "Users": {
+        "Scope": "Ámbito",
+        "ScopeType": "Tipo de ámbito",
+        "ChangeScope": {
+          "Button": "Cambiar ámbito",
+          "Tenant": "Inquilino",
+          "BusinessProfile": "Perfil empresarial",
+          "Group": "Grupo"
+        },
+        "ApprovalCommentTitle": "Comentario enviado al usuario"
+      },
+      "Groups": {
+        "DeleteGroupsErrorMessageGroupsInUse": "Uno o varios grupos no se pueden eliminar porque tienen usuarios con ámbito de grupo. Desmarca estos grupos y vuelve a intentarlo.",
+        "DeleteGroupErrorMessageGroupInUse": "Este grupo tiene algunos usuarios creados bajo su ámbito. Elimina a todos estos usuarios para poder eliminarlo.",
+        "Scope": "Ámbito",
+        "Owners": "Propietarios",
+        "AddExistingUser": "Agregar usuario existente",
+        "CreateAndAddNewUser": "Crear y agregar nuevo usuario"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Por favor, asegúrate de que el usuario actual sea miembro del propietario del grupo pararealizar esta operación"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Configuración de plantilla de sitio de Sharepoint"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "Scope": "Ámbito",
+        "ScopeType": "Tipo de ámbito"
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "Scope": "Ámbito",
+          "ScopeType": "Tipo de ámbito"
+        },
+        "ScopeTypes": {
+          "Tenant": "Inquilino",
+          "BusinessProfile": "Perfil empresarial",
+          "Group": "Grupo"
+        }
+      }
+    }
+  }
+}
