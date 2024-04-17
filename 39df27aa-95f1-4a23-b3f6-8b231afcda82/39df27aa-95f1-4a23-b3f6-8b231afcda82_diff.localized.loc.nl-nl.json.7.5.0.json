@@ -1,0 +1,248 @@
+{
+  "OTAD": {
+    "QueryableProperties": {
+      "Forms": "Formulieren"
+    },
+    "System": {
+      "TenantContact": {
+        "UserSyncContacts": "Gebruiker Synchroniseer Contacten",
+        "ExternalUserSyncContactEmail": "Voeg Extern Gebruiker Synchroniseer Contact E-mail toe"
+      },
+      "Licenses": "Licenties",
+      "AzureAdPermissions": {
+        "ErrorMissingAdPermissions": "De vereiste machtigingen zijn niet geaccepteerd. Klik op de knop om de machtiging te accepteren."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "FormRollup": {
+          "Title": "Formulier Samenvoegen",
+          "Description": ""
+        }
+      },
+      "RecurringSetting": {
+        "Daily": "Dagelijks",
+        "Weekly": "Wekelijks",
+        "Monthly": "Maandelijks",
+        "Never": "Nooit",
+        "Title": "Titel",
+        "Description": "Beschrijving",
+        "FeedbackEmail": "Feedback e-mail",
+        "Levels": "Niveaus",
+        "WeakLevelPercentage": "Percentage Niveau - Zwak",
+        "GoodLevelPercentage": "Percentage Niveau - Goed",
+        "EveryWeekday": "Elke werkdag",
+        "Every": "Elke",
+        "Days": "dag(en)",
+        "Weeks": "week(en)",
+        "Months": "maand(en)",
+        "DayOfWeeks": {
+          "Monday": "Maandag",
+          "Tuesday": "Dinsdag",
+          "Wednesday": "Woensdag",
+          "Thursday": "Donderdag",
+          "Friday": "Vrijdag",
+          "Saturday": "Zaterdag",
+          "Sunday": "Zondag",
+          "Day": "Dag",
+          "Weekday": "Werkdag",
+          "WeekendDay": "Weekenddag"
+        },
+        "Day": "Dag",
+        "OfEvery": "van elke",
+        "The": "De",
+        "WeekOfMonth": {
+          "First": "Eerste",
+          "Second": "Tweede",
+          "Third": "Derde",
+          "Fourth": "Vierde",
+          "Last": "Laatste"
+        },
+        "StartDate": "Startdatum",
+        "NoEndDate": "Geen einddatum",
+        "EndBy": "Eindigt op",
+        "SentOutTimeText": "Op welk tijdstip wilt u het goedkeuringsverzoek verzenden?",
+        "InvalidDayRange": "Dag is niet geldig"
+      }
+    },
+    "Forms": {
+      "Poll": "Peiling",
+      "Survey": "Enquête",
+      "Checkup": "Check-up",
+      "Template": "Sjabloon",
+      "AddQuestion": "Vraag toevoegen",
+      "CreateForm": "Formulier maken",
+      "LimitResponseTime": {
+        "Title": "BeperkReactietijd",
+        "BeforeStartTimeMessage": "Dit formulier is open voor reacties op [[Datum]] om [[Tijd]].",
+        "AfterEndTimeMessage": "Dit formulier is gesloten voor reacties."
+      },
+      "Scope": {
+        "Title": "Scope",
+        "CurrentApp": "[[Huidige app]]"
+      },
+      "ScopeType": {
+        "Title": "Scope type",
+        "App": "App",
+        "BusinessProfile": "Bedrijfsprofiel"
+      },
+      "ActionButton": {
+        "AddQuestion": "Vraag toevoegen"
+      },
+      "Admin": {
+        "EditForm": {
+          "WhenClosed": "Wanneer gesloten",
+          "AllowMultiQuestions": "Meerdere vragen toestaan",
+          "ShowFormSettings": "Formulierinstellingen weergeven"
+        },
+        "CustomChartColors": "Aangepaste Grafiekkleuren",
+        "Templates": "Sjablonen",
+        "Types": "Typen",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Verwijder Formuliersjabloon",
+          "Message": "Weet u zeker dat u dit formuliersjabloon wilt verwijderen?",
+          "ErrorMessageWithTemplateIsInUse": "Het formuliersjabloon wordt momenteel gebruikt en kan niet worden verwijderd. Zorg ervoor dat er geen formulieren en formuliertypen zijn die aan dit formuliersjabloon zijn gekoppeld voordat u het opnieuw probeert te verwijderen."
+        },
+        "PropertySet": "Eigenschappenset",
+        "RemoveFormTypeConfirmation": {
+          "Title": "Verwijder Formuliertype",
+          "Message": "Weet u zeker dat u dit formuliertype wilt verwijderen?",
+          "ErrorMessageTypeInUse": "Het formuliertype wordt momenteel gebruikt en kan niet worden verwijderd. Zorg ervoor dat er geen formulieren zijn die aan dit formuliertype zijn gekoppeld voordat u het opnieuw probeert te verwijderen."
+        },
+        "AddFilter": "Filter toevoegen",
+        "Display": "Weergave",
+        "Filter": "Filter",
+        "Query": "Query",
+        "Scope": "Scope",
+        "QueryScope": {
+          "Tenant": "Tenant",
+          "BusinessProfiles": "Bedrijfsprofielen",
+          "Apps": "Apps"
+        }
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Formulierweergave",
+          "ListView": "Lijstweergave",
+          "NoResultText": "Geen resultaattekst",
+          "PagingType": {
+            "NoPaging": "Geen paginering",
+            "Classic": "Klassiek",
+            "Scroll": "Scrollen"
+          },
+          "Paging": "Paginering",
+          "SortBy": "Sorteren op",
+          "View": "Weergave",
+          "PageSize": "Paginagrootte",
+          "AddColumn": "Kolom toevoegen",
+          "DateFormat": "Datumnotatie",
+          "Width": "Breedte",
+          "CustomLabel": "Aangepast label",
+          "ShowLabel": "Label weergeven",
+          "DragAndDrop": "Slepen en neerzetten"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "Scope": "Scope"
+        }
+      },
+      "Status": "Status",
+      "ErrorMessages": {
+        "Unauthorized": "U bent niet gemachtigd om de peiling op deze locatie te maken."
+      }
+    },
+    "SignOffRequest": {
+      "UpdateRequest": "Verzoek bijwerken",
+      "ScheduleSendOut": "Verzending plannen",
+      "InvalidDate": "Ongeldige datum",
+      "Button": {
+        "SendRequest": "Verzoek verzenden"
+      },
+      "Dialog": {
+        "DeleteRecurrenceTitle": "Verwijder Goedkeuringsherhaling",
+        "DeleteRecurrenceMessage": "Weet u zeker dat u dit herhalingsverzoek wilt verwijderen?"
+      },
+      "RequestStatus": {
+        "Scheduled": "Gepland"
+      },
+      "RecurringRequests": {
+        "Title": "Terugkerende verzoeken",
+        "Name": "Naam",
+        "NextRequest": "Volgend verzoek",
+        "SafetyInspection": "Veiligheidsinspectie",
+        "SentOutTimeTitle": "Op welk tijdstip wilt u het goedkeuringsverzoek verzenden?",
+        "Save": "Opslaan",
+        "RecurringSetting": "Terugkerende instelling"
+      },
+      "RecurringInfo": {
+        "EveryDay": "Uitvoeren elke {0} dag(en)",
+        "EveryWeekday": "Uitvoeren elke werkdag",
+        "EveryWeek": "Uitvoeren elke {0} week(en) op {1}",
+        "DayOfMonth": "Uitvoeren op dag {0} vanelke {1} maand(en)",
+        "WeekDayOfMonth": "Uitvoeren op de {0} {1} van elke {2} maand(en)",
+        "PleaseSelectRecurrence": "Selecteer alstublieft de terugkerende instelling"
+      }
+    },
+    "UserManagement": {
+      "Users": {
+        "Scope": "Scope",
+        "ScopeType": "Scope type",
+        "ChangeScope": {
+          "Button": "Scope wijzigen",
+          "Tenant": "Tenant",
+          "BusinessProfile": "Bedrijfsprofiel",
+          "Group": "Groep"
+        },
+        "ApprovalCommentTitle": "Opmerking verzonden naar gebruiker"
+      },
+      "Groups": {
+        "DeleteGroupsErrorMessageGroupsInUse": "Een ofmeerdere groepen kunnen niet worden verwijderd omdat ze gebruikers hebben met groepsscope. Schakel deze groepen uit en probeer het opnieuw.",
+        "DeleteGroupErrorMessageGroupInUse": "Deze groep heeft enkele gebruikers die zijn gemaakt binnen de scope ervan. Verwijder al deze gebruikers om de groep te verwijderen.",
+        "Scope": "Scope",
+        "Owners": "Eigenaren",
+        "AddExistingUser": "Bestaande gebruiker toevoegen",
+        "CreateAndAddNewUser": "Gebruiker maken en toevoegen"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Zorg ervoor dat de huidige gebruiker lid is van de groepseigenaar om deze bewerking uit te voeren"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Instellen van Sharepoint teamsite-sjabloon"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "Scope": "Scope",
+        "ScopeType": "Scope type"
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "Scope": "Scope",
+          "ScopeType": "Scope type"
+        },
+        "ScopeTypes": {
+          "Tenant": "Tenant",
+          "BusinessProfile": "Bedrijfsprofiel",
+          "Group": "Groep"
+        }
+      }
+    }
+  }
+}
