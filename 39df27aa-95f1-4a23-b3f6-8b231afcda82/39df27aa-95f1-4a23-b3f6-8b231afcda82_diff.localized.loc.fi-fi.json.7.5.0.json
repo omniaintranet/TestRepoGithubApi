@@ -1,0 +1,248 @@
+{
+  "OTAD": {
+    "QueryableProperties": {
+      "Forms": "Lomakkeet"
+    },
+    "System": {
+      "TenantContact": {
+        "UserSyncContacts": "Käyttäjien synkronointi yhteystiedot",
+        "ExternalUserSyncContactEmail": "Lisää ulkoisen käyttäjän synkronointi yhteystiedon sähköposti"
+      },
+      "Licenses": "Lisenssit",
+      "AzureAdPermissions": {
+        "ErrorMissingAdPermissions": "Tarvittavia oikeuksia ei ole annettu. Napsauta painiketta antaaksesi luvan oikeuksille."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "FormRollup": {
+          "Title": "Lomakkeen yhteenveto",
+          "Description": ""
+        }
+      },
+      "RecurringSetting": {
+        "Daily": "Päivittäin",
+        "Weekly": "Viikoittain",
+        "Monthly": "Kuukausittain",
+        "Never": "Ei koskaan",
+        "Title": "Otsikko",
+        "Description": "Kuvaus",
+        "FeedbackEmail": "Palaute sähköposti",
+        "Levels": "Tasot",
+        "WeakLevelPercentage": "Prosenttitaso - Heikko",
+        "GoodLevelPercentage": "Prosenttitaso - Hyvä",
+        "EveryWeekday": "Joka arkipäivä",
+        "Every": "Joka",
+        "Days": "päivä(ä)",
+        "Weeks": "viikko(a)",
+        "Months": "kuukausi(a)",
+        "DayOfWeeks": {
+          "Monday": "Maanantai",
+          "Tuesday": "Tiistai",
+          "Wednesday": "Keskiviikko",
+          "Thursday": "Torstai",
+          "Friday": "Perjantai",
+          "Saturday": "Lauantai",
+          "Sunday": "Sunnuntai",
+          "Day": "Päivä",
+          "Weekday": "Arkipäivä",
+          "WeekendDay": "Viikonloppupäivä"
+        },
+        "Day": "Päivä",
+        "OfEvery": "joka",
+        "The": "The",
+        "WeekOfMonth": {
+          "First": "Ensimmäinen",
+          "Second": "Toinen",
+          "Third": "Kolmas",
+          "Fourth": "Neljäs",
+          "Last": "Viimeinen"
+        },
+        "StartDate": "Aloituspäivä",
+        "NoEndDate": "Ei päättymispäivää",
+        "EndBy": "Päättymispäivä",
+        "SentOutTimeText": "Mihin aikaanhaluat lähettää hyväksymispyynnön?",
+        "InvalidDayRange": "Päivä ei ole kelvollinen"
+      }
+    },
+    "Forms": {
+      "Poll": "Äänestys",
+      "Survey": "Kysely",
+      "Checkup": "Tarkistus",
+      "Template": "Malli",
+      "AddQuestion": "Lisää kysymys",
+      "CreateForm": "Luo lomake",
+      "LimitResponseTime": {
+        "Title": "Rajoita vastausaikaa",
+        "BeforeStartTimeMessage": "Tämä lomake avautuu vastauksille [[Päivämäärä]] klo [[Aika]].",
+        "AfterEndTimeMessage": "Tämä lomake on suljettu vastauksilta."
+      },
+      "Scope": {
+        "Title": "Laajuus",
+        "CurrentApp": "[[Nykyinen sovellus]]"
+      },
+      "ScopeType": {
+        "Title": "Laajuuden tyyppi",
+        "App": "Sovellus",
+        "BusinessProfile": "Liiketoimintaprofiili"
+      },
+      "ActionButton": {
+        "AddQuestion": "Lisää kysymys"
+      },
+      "Admin": {
+        "EditForm": {
+          "WhenClosed": "Kun suljettu",
+          "AllowMultiQuestions": "Salli useita kysymyksiä",
+          "ShowFormSettings": "Näytä lomakkeen asetukset"
+        },
+        "CustomChartColors": "Mukautetut kaaviovärit",
+        "Templates": "Mallit",
+        "Types": "Tyypit",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Poista lomakemalli",
+          "Message": "Haluatko varmasti poistaa tämän lomakemallin?",
+          "ErrorMessageWithTemplateIsInUse": "Lomakemallia käytetään tällä hetkellä eikä sitä voi poistaa. Varmista, että lomakkeita ja lomaketyyppejä ei käytetä tähän lomakemalliin ennen kuin yrität poistaa sen uudelleen."
+        },
+        "PropertySet": "Ominaisuusjoukko",
+        "RemoveFormTypeConfirmation": {
+          "Title": "Poista lomaketyyppi",
+          "Message": "Haluatko varmasti poistaa tämän lomaketyypin?",
+          "ErrorMessageTypeInUse": "Lomaketyyppiä käytetään tällä hetkellä eikä sitä voi poistaa. Varmista, että lomakkeita ei käytetä tähän lomaketyyppiin ennen kuin yrität poistaa sen uudelleen."
+        },
+        "AddFilter": "Lisää suodatin",
+        "Display": "Näyttö",
+        "Filter": "Suodatin",
+        "Query": "Kysely",
+        "Scope": "Laajuus",
+        "QueryScope": {
+          "Tenant": "Tenant",
+          "BusinessProfiles": "Liiketoimintaprofiilit",
+          "Apps": "Sovellukset"
+        }
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Lomakkeen näkymä",
+          "ListView": "Luettelonäkymä",
+          "NoResultText": "Ei tuloksia",
+          "PagingType": {
+            "NoPaging": "Ei sivutusta",
+            "Classic": "Perinteinen",
+            "Scroll": "Vieritys"
+          },
+          "Paging": "Sivutus",
+          "SortBy": "Lajittele",
+          "View": "Näkymä",
+          "PageSize": "Sivun koko",
+          "AddColumn": "Lisää sarake",
+          "DateFormat": "Muoto",
+          "Width": "Leveys",
+          "CustomLabel": "Mukautettu etiketti",
+          "ShowLabel": "Näytä etiketti",
+          "DragAndDrop": "Raahaa ja pudota"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "Scope": "Laajuus"
+        }
+      },
+      "Status": "Tila",
+      "ErrorMessages": {
+        "Unauthorized": "Sinulla ei ole oikeuksia luoda äänestystä tähän sijaintiin."
+      }
+    },
+    "SignOffRequest": {
+      "UpdateRequest": "Päivitä pyyntö",
+      "ScheduleSendOut": "Aikatauluta lähetys",
+      "InvalidDate": "Virheellinen päivämäärä",
+      "Button": {
+        "SendRequest": "Lähetä pyyntö"
+      },
+      "Dialog": {
+        "DeleteRecurrenceTitle": "Poista hyväksymispyynnön toistuminen",
+        "DeleteRecurrenceMessage": "Haluatko varmasti poistaa tämän toistuvan pyynnön?"
+      },
+      "RequestStatus": {
+        "Scheduled": "Aikataulutettu"
+      },
+      "RecurringRequests": {
+        "Title": "Toistuvat pyynnöt",
+        "Name": "Nimi",
+        "NextRequest": "Seuraava pyyntö",
+        "SafetyInspection": "Turvallisuustarkastus",
+        "SentOutTimeTitle": "Mihin aikaan haluat lähettää hyväksymispyynnön?",
+        "Save": "Tallenna",
+        "RecurringSetting": "Toistuvan asetus"
+      },
+      "RecurringInfo": {
+        "EveryDay": "Suorita joka {0} päivä(ä)",
+        "EveryWeekday": "Suorita joka arkipäivä",
+        "EveryWeek": "Suorita joka {0} viikko(a) {1}",
+        "DayOfMonth": "Suorita päivänä {0} joka {1} kuukausi(a)",
+        "WeekDayOfMonth": "Suorita {0} {1} joka {2} kuukausi(a)",
+        "PleaseSelectRecurrence": "Valitse toistuvuuden asetus"
+      }
+    },
+    "UserManagement": {
+      "Users": {
+        "Scope": "Laajuus",
+        "ScopeType": "Laajuuden tyyppi",
+        "ChangeScope": {
+          "Button": "Vaihda laajuutta",
+          "Tenant": "Tenant",
+          "BusinessProfile": "Liiketoimintaprofiili",
+          "Group": "Ryhmä"
+        },
+        "ApprovalCommentTitle": "Lähetetty kommentti käyttäjälle"
+      },
+      "Groups": {
+        "DeleteGroupsErrorMessageGroupsInUse": "Yhtä tai useampaa ryhmää ei voi poistaa, koska niillä on ryhmän laajuisia käyttäjiä. Poista nämä ryhmät valinnasta ja yritä uudelleen.",
+        "DeleteGroupErrorMessageGroupInUse": "Tällä ryhmällä on joitain sen laajuuteen kuuluvia käyttäjiä. Poista kaikki nämä käyttäjät ennen kuin poistat ryhmän.",
+        "Scope": "Laajuus",
+        "Owners": "Omistajat",
+        "AddExistingUser": "Lisää olemassa oleva käyttäjä",
+        "CreateAndAddNewUser": "Luo ja lisää uusi käyttäjä"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Varmista, että nykyinen käyttäjä on ryhmän omistajan jäsen suorittaaksesi tämän toiminnon"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Sharepoint-ryhmäsivustomallin asennus"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "Scope": "Laajuus",
+        "ScopeType": "Laajuuden tyyppi"
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "Scope": "Laajuus",
+          "ScopeType": "Laajuuden tyyppi"
+        },
+        "ScopeTypes": {
+          "Tenant": "Tenant",
+          "BusinessProfile": "Liiketoimintaprofiili",
+          "Group": "Ryhmä"
+        }
+      }
+    }
+  }
+}
