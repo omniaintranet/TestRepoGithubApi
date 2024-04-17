@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Du måste vara en webbplatsadministratör för denna webbplats.",
+          "UnableToSetSiteSelectedPermission": "Kan inte ställa in webbplatsvald behörighet för denna webbplats."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Omfattning"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Välj underordnade termer"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Valda medier"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Autouppspelning"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Nedsänkt",
+          "Superscript": "Upphöjd"
+        },
+        "Tooltip": {
+          "Subscript": "Nedsänkt",
+          "Superscript": "Upphöjd"
+        }
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "De nödvändiga behörigheterna har inte samtyckts till. Klicka på knappen för att samtycka till behörigheten."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Din e-post har bekräftats och kontot har skapats. Du kommer nu att omdirigeras till introduktionen.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Din e-post har bekräftats och ditt konto har skickats för godkännande. Du kan stänga den här sidan."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Visa",
+        "HideForgotPassword": "Dölj glömt lösenord"
+      }
+    }
+  }
+}
