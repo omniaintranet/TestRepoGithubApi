@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Sie müssen ein Site-Sammlungsadministrator dieser Website sein.",
+          "UnableToSetSiteSelectedPermission": "Die Berechtigung für die ausgewählte Website kann nicht festgelegt werden."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Umfang"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Untergeordnete Begriffe auswählen"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Ausgewählte Medien"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Automatische Wiedergabe"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Tiefgestellt",
+          "Superscript": "Hochgestellt"
+        },
+        "Tooltip": {
+          "Subscript": "Tiefgestellt",
+          "Superscript": "Hochgestellt"
+        }
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "Die erforderlichen Berechtigungen wurden nicht erteilt. Klicken Sie auf die Schaltfläche, um die Berechtigung zu erteilen."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "IhreE-Mail wurde bestätigt und Ihr Konto wurde erstellt. Sie werden nun zur Einführung weitergeleitet.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Ihre E-Mail wurde bestätigt und Ihr Konto wurde zur Genehmigung gesendet. Sie können diese Seite schließen."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Anzeige",
+        "HideForgotPassword": "Passwort vergessen ausblenden"
+      }
+    }
+  }
+}
