@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Vous devez être un administrateur de la collection de sites de ce site.",
+          "UnableToSetSiteSelectedPermission": "Impossible de définir les autorisations de site sélectionnées pour ce site."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Portée"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Sélectionner les termes enfants"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Médias sélectionnés"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Lecture automatique"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Indice",
+          "Superscript": "Exposant"
+        },
+        "Tooltip": {
+          "Subscript": "Indice",
+          "Superscript": "Exposant"
+        }
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "Lesautorisations requises ne sont pas consenties. Veuillez cliquer sur le bouton pour consentir à l'autorisation."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Votre courriel a été confirmé etvotre compte a été créé. Vous serez maintenant redirigé vers l'intégration.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Votre courriel a été confirmé et votre compte a été envoyé pour approbation. Vous pouvez fermer cette page."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Affichage",
+        "HideForgotPassword": "Masquer le mot de passe oublié"
+      }
+    }
+  }
+}
