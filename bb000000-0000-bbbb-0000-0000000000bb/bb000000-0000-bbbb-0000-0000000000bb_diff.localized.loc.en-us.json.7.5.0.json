@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "You must be a site collection administrator of this site.",
+          "UnableToSetSiteSelectedPermission": "Unable to set Site Selected Permission for this site."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Scope"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Select child terms"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Selected medias"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Autoplay"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Subscript",
+          "Superscript": "Superscript"
+        },
+        "Tooltip": {
+          "Subscript": "Subscript",
+          "Superscript": "Superscript"
+        }
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "The required permissions is not consented. Please click the button to consent the permission."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Your email has been confirmed and account been created. You will now be redirected to the on boarding.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Your email has been confirmed and your account has been sent for approval. You can close this page."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Display",
+        "HideForgotPassword": "Hide forgot password"
+      }
+    }
+  }
+}

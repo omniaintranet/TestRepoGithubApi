@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Sinun on oltava sivustokokoelman ylläpitäjä tässä sivustossa.",
+          "UnableToSetSiteSelectedPermission": "Sivuston valitun käyttöoikeuden asettaminen ei onnistu tälle sivustolle."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Laajuus"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Valitse alitermit"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Valitut mediat"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Automaattinen toisto"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Alaindeksi",
+          "Superscript": "Yläindeksi"
+        },
+        "Tooltip": {
+          "Subscript": "Alaindeksi",
+          "Superscript": "Yläindeksi"
+        }
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "Tarvittavia käyttöoikeuksia ei ole annettu. Napsauta painiketta antaaksesi luvan."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Sähköpostisi on vahvistettu ja tili on luotu. Sinut ohjataan nyt käyttöönottosivulle.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Sähköpostisi on vahvistettu ja tili on lähetetty hyväksyttäväksi. Voit sulkea tämän sivun."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Näyttö",
+        "HideForgotPassword": "Piilota unohtunut salasana"
+      }
+    }
+  }
+}

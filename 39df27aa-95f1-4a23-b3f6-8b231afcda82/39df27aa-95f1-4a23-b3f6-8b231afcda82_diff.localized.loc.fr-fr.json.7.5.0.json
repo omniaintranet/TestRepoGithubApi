@@ -1,0 +1,248 @@
+{
+  "OTAD": {
+    "QueryableProperties": {
+      "Forms": "Formulaires"
+    },
+    "System": {
+      "TenantContact": {
+        "UserSyncContacts": "Synchroniser les contacts utilisateur",
+        "ExternalUserSyncContactEmail": "Ajouter l'e-mail de contact de synchronisation des utilisateurs externes"
+      },
+      "Licenses": "Licences",
+      "AzureAdPermissions": {
+        "ErrorMissingAdPermissions": "Les autorisations requises ne sont pas consenties. Veuillez cliquer sur le bouton pour consentir à l'autorisation."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "FormRollup": {
+          "Title": "Regroupement de formulaires",
+          "Description": ""
+        }
+      },
+      "RecurringSetting": {
+        "Daily": "Quotidien",
+        "Weekly": "Hebdomadaire",
+        "Monthly": "Mensuel",
+        "Never": "Jamais",
+        "Title": "Titre",
+        "Description": "Description",
+        "FeedbackEmail": "E-mail de retour d'information",
+        "Levels": "Niveaux",
+        "WeakLevelPercentage": "Pourcentage de niveau faible",
+        "GoodLevelPercentage": "Pourcentage de niveau bon",
+        "EveryWeekday": "Tous les jours de la semaine",
+        "Every": "Tous les",
+        "Days": "jour(s)",
+        "Weeks": "semaine(s)",
+        "Months": "mois",
+        "DayOfWeeks": {
+          "Monday": "Lundi",
+          "Tuesday": "Mardi",
+          "Wednesday": "Mercredi",
+          "Thursday": "Jeudi",
+          "Friday": "Vendredi",
+          "Saturday": "Samedi",
+          "Sunday": "Dimanche",
+          "Day": "Jour",
+          "Weekday": "Jour de la semaine",
+          "WeekendDay": "Jour du week-end"
+        },
+        "Day": "Jour",
+        "OfEvery": "de chaque",
+        "The": "Le",
+        "WeekOfMonth": {
+          "First": "Premier",
+          "Second": "Deuxième",
+          "Third": "Troisième",
+          "Fourth": "Quatrième",
+          "Last": "Dernier"
+        },
+        "StartDate": "Date de début",
+        "NoEndDate": "Pas de date de fin",
+        "EndBy": "Fin le",
+        "SentOutTimeText": "À quelle heure souhaitez-vous envoyer la demande de validation ?",
+        "InvalidDayRange": "Jour non valide"
+      }
+    },
+    "Forms": {
+      "Poll": "Sondage",
+      "Survey": "Enquête",
+      "Checkup": "Vérification",
+      "Template": "Modèle",
+      "AddQuestion": "Ajouter une question",
+      "CreateForm": "Créer un formulaire",
+      "LimitResponseTime": {
+        "Title": "Limite de temps de réponse",
+        "BeforeStartTimeMessage": "Ce formulaire sera ouvert aux réponses le [[Date]] à [[Time]].",
+        "AfterEndTimeMessage": "Ce formulaire est fermé aux réponses."
+      },
+      "Scope": {
+        "Title": "Portée",
+        "CurrentApp": "[[Application actuelle]]"
+      },
+      "ScopeType": {
+        "Title": "Type de portée",
+        "App": "Application",
+        "BusinessProfile": "Profil d'entreprise"
+      },
+      "ActionButton": {
+        "AddQuestion": "Ajouter une question"
+      },
+      "Admin": {
+        "EditForm": {
+          "WhenClosed": "Quand il est fermé",
+          "AllowMultiQuestions": "Autoriser plusieurs questions",
+          "ShowFormSettings": "Afficher les paramètres du formulaire"
+        },
+        "CustomChartColors": "Couleurs de graphique personnalisées",
+        "Templates": "Modèles",
+        "Types": "Types",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Supprimer le modèle de formulaire",
+          "Message": "Êtes-vous sûr de vouloir supprimer ce modèle de formulaire ?",
+          "ErrorMessageWithTemplateIsInUse": "Le modèle de formulaire est actuellement utilisé et ne peut pas être supprimé. Veuillez vous assurer qu'il n'y a pas de formulaires et de types de formulaire utilisés pour ce modèle de formulaire avant de tenter de le supprimer à nouveau."
+        },
+        "PropertySet": "Ensemble de propriétés",
+        "RemoveFormTypeConfirmation": {
+          "Title": "Supprimer le type de formulaire",
+          "Message": "Êtes-vous sûr de vouloir supprimer ce type de formulaire ?",
+          "ErrorMessageTypeInUse": "Le type de formulaire est actuellement utilisé et ne peut pas être supprimé. Veuillez vous assurer qu'il n'y a pas de formulaires utilisés pour ce type de formulaire avant de tenter de le supprimer à nouveau."
+        },
+        "AddFilter": "Ajouter un filtre",
+        "Display": "Affichage",
+        "Filter": "Filtre",
+        "Query": "Requête",
+        "Scope": "Portée",
+        "QueryScope": {
+          "Tenant": "Tenant",
+          "BusinessProfiles": "Profils d'entreprise",
+          "Apps": "Applications"
+        }
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Vue du formulaire",
+          "ListView": "Vue en liste",
+          "NoResultText": "Aucun résultat",
+          "PagingType": {
+            "NoPaging": "Pas de pagination",
+            "Classic": "Classique",
+            "Scroll": "Défilement"
+          },
+          "Paging": "Pagination",
+          "SortBy": "Trier par",
+          "View": "Vue",
+          "PageSize": "Taille de la page",
+          "AddColumn": "Ajouter une colonne",
+          "DateFormat": "Format",
+          "Width": "Largeur",
+          "CustomLabel": "Étiquette personnalisée",
+          "ShowLabel": "Afficher l'étiquette",
+          "DragAndDrop": "Glisser-déposer"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "Scope": "Portée"
+        }
+      },
+      "Status": "Statut",
+      "ErrorMessages": {
+        "Unauthorized": "Vous n'êtes pas autorisé à créer le sondageà cet emplacement."
+      }
+    },
+    "SignOffRequest": {
+      "UpdateRequest": "Mettre à jour la demande",
+      "ScheduleSendOut": "Planifier l'envoi",
+      "InvalidDate": "Date non valide",
+      "Button": {
+        "SendRequest": "Envoyer la demande"
+      },
+      "Dialog": {
+        "DeleteRecurrenceTitle": "Supprimer la récurrence de validation",
+        "DeleteRecurrenceMessage": "Êtes-vous sûr de vouloir supprimer cette demande récurrente ?"
+      },
+      "RequestStatus": {
+        "Scheduled": "Planifié"
+      },
+      "RecurringRequests": {
+        "Title": "Demandes récurrentes",
+        "Name": "Nom",
+        "NextRequest": "Prochaine demande",
+        "SafetyInspection": "Inspection de sécurité",
+        "SentOutTimeTitle": "À quelle heure souhaitez-vous envoyer la demande de validation ?",
+        "Save": "Enregistrer",
+        "RecurringSetting": "Paramètres de récurrence"
+      },
+      "RecurringInfo": {
+        "EveryDay": "Exécuter tous les {0} jour(s)",
+        "EveryWeekday": "Exécuter tous les jours de la semaine",
+        "EveryWeek": "Exécuter tous les {0} semaine(s) le {1}",
+        "DayOfMonth": "Exécuter le jour {0} de chaque {1} mois(s)",
+        "WeekDayOfMonth": "Exécuter le {0} {1} de chaque {2} mois(s)",
+        "PleaseSelectRecurrence": "Veuillez sélectionner les paramètres de récurrence"
+      }
+    },
+    "UserManagement": {
+      "Users": {
+        "Scope": "Portée",
+        "ScopeType": "Type de portée",
+        "ChangeScope": {
+          "Button": "Changer la portée",
+          "Tenant": "Tenant",
+          "BusinessProfile": "Profil d'entreprise",
+          "Group": "Groupe"
+        },
+        "ApprovalCommentTitle": "Commentaire envoyé à l'utilisateur"
+      },
+      "Groups": {
+        "DeleteGroupsErrorMessageGroupsInUse": "Un ou plusieurs groupes ne peuvent pas être supprimés car ils ont des utilisateurs avec une portée de groupe. Veuillez désélectionner ces groupes et réessayer.",
+        "DeleteGroupErrorMessageGroupInUse": "Ce groupe a des utilisateurs créés dans sa portée. Veuillez supprimer tous ces utilisateurs pour le supprimer.",
+        "Scope": "Portée",
+        "Owners": "Propriétaires",
+        "AddExistingUser": "Ajouter un utilisateur existant",
+        "CreateAndAddNewUser": "Créer et ajouter unnouvel utilisateur"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Veuillez vous assurer que l'utilisateur actuel est membre du propriétaire du groupe pour effectuer cette opération"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Configuration du modèle de site d'équipe Sharepoint"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "Scope": "Portée",
+        "ScopeType": "Type de portée"
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "Scope": "Portée",
+          "ScopeType": "Type de portée"
+        },
+        "ScopeTypes": {
+          "Tenant": "Tenant",
+          "BusinessProfile": "Profil d'entreprise",
+          "Group": "Groupe"
+        }
+      }
+    }
+  }
+}

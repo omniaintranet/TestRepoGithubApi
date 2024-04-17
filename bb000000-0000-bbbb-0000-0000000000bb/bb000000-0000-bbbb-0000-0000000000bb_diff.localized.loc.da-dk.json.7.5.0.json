@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Du skal være en site-samlingadministrator for dette websted.",
+          "UnableToSetSiteSelectedPermission": "Kan ikke angive tilladelse til valgt websted for dette websted."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Scope"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Vælg underordnede vilkår"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Valgte medier"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Autoplay"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Subskript",
+          "Superscript": "Superskript"
+        },
+        "Tooltip": {
+          "Subscript": "Subskript",
+          "Superscript": "Superskript"
+        }
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "De nødvendige tilladelser er ikke givet. Klik venligst på knappen for at give tilladelsen."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Din e-mail er blevet bekræftet, og kontoen er oprettet. Du vil nu blive omdirigeret til onboarding.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Din e-mail er blevet bekræftet, og din konto er blevet sendt til godkendelse. Du kan lukke denne side."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Visning",
+        "HideForgotPassword": "Skjul glemt adgangskode"
+      }
+    }
+  }
+}

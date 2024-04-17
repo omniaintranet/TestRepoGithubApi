@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Bạn phải là quản trị viên bộ sưu tập trang web này.",
+          "UnableToSetSiteSelectedPermission": "Không thể thiết lập Quyền đã chọn Trang web cho trang web này."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Phạm vi"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Chọn các thuật ngữ con"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Các phương tiện đã chọn"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Tự động phát"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Chỉ số dưới",
+          "Superscript": "Chỉ số trên"
+        },
+        "Tooltip": {
+          "Subscript": "Chỉ số dưới",
+          "Superscript": "Chỉ số trên"
+        }
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "Không có quyền cần thiết được đồng ý. Vui lòng nhấp vào nút để đồng ý quyền."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Email của bạn đãđược xác nhận và tài khoản đã được tạo. Bây giờ bạn sẽ được chuyển hướng đến quá trình khởi động.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Email của bạn đã được xác nhận và tài khoản của bạn đã được gửi để được phê duyệt. Bạn có thể đóng trang này."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Hiển thị",
+        "HideForgotPassword": "Ẩn quên mật khẩu"
+      }
+    }
+  }
+}

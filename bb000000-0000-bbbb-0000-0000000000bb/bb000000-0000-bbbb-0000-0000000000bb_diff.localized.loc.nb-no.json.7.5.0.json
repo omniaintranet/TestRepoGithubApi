@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Du må være en nettstedsamlingadministrator for dette nettstedet.",
+          "UnableToSetSiteSelectedPermission": "Kan ikke angi valgt nettstedsrettighet for dette nettstedet."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Omfang"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Velg underordnede vilkår"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Valgte medier"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Autospill"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Senket skrift",
+          "Superscript": "Hevet skrift"
+        },
+        "Tooltip": {
+          "Subscript": "Senket skrift",
+          "Superscript": "Hevet skrift"
+        }
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "De nødvendige tillatelsene er ikke samtykket. Klikk på knappen for å samtykke til tillatelsen."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "E-posten din er bekreftet og kontoen er opprettet. Du blir nå omdirigert til opplæringen.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "E-posten din er bekreftet, og kontoen din er sendt til godkjenning. Du kan lukke denne siden."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Visning",
+        "HideForgotPassword": "Skjul glemt passord"
+      }
+    }
+  }
+}
