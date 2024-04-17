@@ -1,0 +1,248 @@
+{
+  "OTAD": {
+    "QueryableProperties": {
+      "Forms": "Formulär"
+    },
+    "System": {
+      "TenantContact": {
+        "UserSyncContacts": "Synkronisera användarkontakter",
+        "ExternalUserSyncContactEmail": "Lägg till e-postför extern användarsynkronisering"
+      },
+      "Licenses": "Licenser",
+      "AzureAdPermissions": {
+        "ErrorMissingAdPermissions": "De nödvändiga behörigheterna har inte samtyckts till. Klicka på knappen för att samtyckatill behörigheten."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "FormRollup": {
+          "Title": "Formulärsummering",
+          "Description": ""
+        }
+      },
+      "RecurringSetting": {
+        "Daily": "Dagligen",
+        "Weekly": "Veckovis",
+        "Monthly": "Månadsvis",
+        "Never": "Aldrig",
+        "Title": "Titel",
+        "Description": "Beskrivning",
+        "FeedbackEmail": "E-post för feedback",
+        "Levels": "Nivåer",
+        "WeakLevelPercentage": "Procentuell nivå - Svag",
+        "GoodLevelPercentage": "Procentuell nivå - Bra",
+        "EveryWeekday": "Varje vardag",
+        "Every": "Varje",
+        "Days": "dag(ar)",
+        "Weeks": "vecka(or)",
+        "Months": "månad(er)",
+        "DayOfWeeks": {
+          "Monday": "Måndag",
+          "Tuesday": "Tisdag",
+          "Wednesday": "Onsdag",
+          "Thursday": "Torsdag",
+          "Friday": "Fredag",
+          "Saturday": "Lördag",
+          "Sunday": "Söndag",
+          "Day": "Dag",
+          "Weekday": "Vardag",
+          "WeekendDay": "Helgdag"
+        },
+        "Day": "Dag",
+        "OfEvery": "av varje",
+        "The": "Den",
+        "WeekOfMonth": {
+          "First": "Första",
+          "Second": "Andra",
+          "Third": "Tredje",
+          "Fourth": "Fjärde",
+          "Last": "Sista"
+        },
+        "StartDate": "Startdatum",
+        "NoEndDate": "Inget slutdatum",
+        "EndBy": "Slutdatum",
+        "SentOutTimeText": "Vilken tid vill du att sign-off-begäran ska skickas ut?",
+        "InvalidDayRange": "Dagen är ogiltig"
+      }
+    },
+    "Forms": {
+      "Poll": "Omröstning",
+      "Survey": "Undersökning",
+      "Checkup": "Hälsokontroll",
+      "Template": "Mall",
+      "AddQuestion": "Lägg till fråga",
+      "CreateForm": "Skapa formulär",
+      "LimitResponseTime": {
+        "Title": "Begränsa svarstid",
+        "BeforeStartTimeMessage": "Detta formulär öppnas för svar den [[Datum]] kl. [[Tid]].",
+        "AfterEndTimeMessage": "Detta formulär är stängt för svar."
+      },
+      "Scope": {
+        "Title": "Omfattning",
+        "CurrentApp": "[[Nuvarande app]]"
+      },
+      "ScopeType": {
+        "Title": "Omfattnings typ",
+        "App": "App",
+        "BusinessProfile": "Företagsprofil"
+      },
+      "ActionButton": {
+        "AddQuestion": "Lägg till fråga"
+      },
+      "Admin": {
+        "EditForm": {
+          "WhenClosed": "När stängd",
+          "AllowMultiQuestions": "Tillåt flera frågor",
+          "ShowFormSettings": "Visa formulärinställningar"
+        },
+        "CustomChartColors": "Anpassade diagramfärger",
+        "Templates": "Mallar",
+        "Types": "Typer",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Ta bort formulärmall",
+          "Message": "Är du säker på att du vill ta bort denna formulärmall?",
+          "ErrorMessageWithTemplateIsInUse": "Formulärmallen används för närvarande och kan inte tas bort. Se till att det inte finns några formulär och formulärtyper som används för denna formulärmall innan du försöker ta bort den igen."
+        },
+        "PropertySet": "Egenskapsuppsättning",
+        "RemoveFormTypeConfirmation": {
+          "Title": "Ta bort formulärtyp",
+          "Message": "Är du säker på att du vill ta bort denna formulärtyp?",
+          "ErrorMessageTypeInUse": "Formulärtypen används för närvarande och kan inte tas bort. Se till att det inte finns några formulär som används för denna formulärtyp innan du försöker ta bort den igen."
+        },
+        "AddFilter": "Lägg till filter",
+        "Display": "Visa",
+        "Filter": "Filter",
+        "Query": "Fråga",
+        "Scope": "Omfattning",
+        "QueryScope": {
+          "Tenant": "Tenant",
+          "BusinessProfiles": "Företagsprofiler",
+          "Apps": "Appar"
+        }
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Formulärvy",
+          "ListView": "Listvy",
+          "NoResultText": "Ingen resultat text",
+          "PagingType": {
+            "NoPaging": "Ingen paginering",
+            "Classic": "Klassisk",
+            "Scroll": "Scrolla"
+          },
+          "Paging": "Paginering",
+          "SortBy": "Sortera efter",
+          "View": "Vy",
+          "PageSize": "Sidstorlek",
+          "AddColumn": "Lägg till kolumn",
+          "DateFormat": "Format",
+          "Width": "Bredd",
+          "CustomLabel": "Anpassad etikett",
+          "ShowLabel": "Visa etikett",
+          "DragAndDrop": "Dra och släpp"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "Scope": "Omfattning"
+        }
+      },
+      "Status": "Status",
+      "ErrorMessages": {
+        "Unauthorized": "Du har inte behörighet att skapa omröstningen på denna plats."
+      }
+    },
+    "SignOffRequest": {
+      "UpdateRequest": "Uppdatera begäran",
+      "ScheduleSendOut": "Schemalägg utskick",
+      "InvalidDate": "Ogiltigt datum",
+      "Button": {
+        "SendRequest": "Skicka begäran"
+      },
+      "Dialog": {
+        "DeleteRecurrenceTitle": "Ta bort återkommande sign-off-begäran",
+        "DeleteRecurrenceMessage": "Är du säker på att du vill ta bort denna återkommande begäran?"
+      },
+      "RequestStatus": {
+        "Scheduled": "Schemalagd"
+      },
+      "RecurringRequests": {
+        "Title": "Återkommande begäran",
+        "Name": "Namn",
+        "NextRequest": "Nästa begäran",
+        "SafetyInspection": "Säkerhetskontroll",
+        "SentOutTimeTitle": "Vilken tid vill du att sign-off-begäran ska skickas ut?",
+        "Save": "Spara",
+        "RecurringSetting": "Återkommande inställning"
+      },
+      "RecurringInfo": {
+        "EveryDay": "Kör varje {0} dag(ar)",
+        "EveryWeekday": "Kör varje vardag",
+        "EveryWeek": "Kör varje {0} vecka(or) på {1}",
+        "DayOfMonth": "Kör på dag {0} av varje {1} månad(er)",
+        "WeekDayOfMonth": "Kör på den {0} {1} av varje {2} månad(er)",
+        "PleaseSelectRecurrence": "Välj återkommande inställning"
+      }
+    },
+    "UserManagement": {
+      "Users": {
+        "Scope": "Omfattning",
+        "ScopeType": "Omfattnings typ",
+        "ChangeScope": {
+          "Button": "Ändra omfattning",
+          "Tenant": "Tenant",
+          "BusinessProfile": "Företagsprofil",
+          "Group": "Grupp"
+        },
+        "ApprovalCommentTitle": "Kommentar skickad till användare"
+      },
+      "Groups": {
+        "DeleteGroupsErrorMessageGroupsInUse": "En eller flera grupper kan inte tas bort eftersom de har användare med gruppomfattning. Avmarkera dessa grupper och försök igen.",
+        "DeleteGroupErrorMessageGroupInUse": "Denna grupp har några användare som skapats inom dess omfattning. Ta bort alla dessa användare för att ta bort gruppen.",
+        "Scope": "Omfattning",
+        "Owners": "Ägare",
+        "AddExistingUser": "Lägg till befintlig användare",
+        "CreateAndAddNewUser": "Skapa och lägg till ny användare"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Var god kontrollera att den aktuella användaren är medlem i gruppägaren för att utföra denna åtgärd"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Konfigurera Sharepoint-teamsite-mall"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "Scope": "Omfattning",
+        "ScopeType": "Omfattnings typ"
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "Scope": "Omfattning",
+          "ScopeType": "Omfattnings typ"
+        },
+        "ScopeTypes": {
+          "Tenant": "Tenant",
+          "BusinessProfile": "Företagsprofil",
+          "Group": "Grupp"
+        }
+      }
+    }
+  }
+}
