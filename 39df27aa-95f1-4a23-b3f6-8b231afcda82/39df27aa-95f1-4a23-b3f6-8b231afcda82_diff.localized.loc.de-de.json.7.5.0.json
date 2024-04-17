@@ -1,0 +1,248 @@
+{
+  "OTAD": {
+    "QueryableProperties": {
+      "Forms": "Formulare"
+    },
+    "System": {
+      "TenantContact": {
+        "UserSyncContacts": "Benutzersynchronisierung Kontakte",
+        "ExternalUserSyncContactEmail": "Externe Benutzersynchronisierung Kontakt E-Mail hinzufügen"
+      },
+      "Licenses": "Lizenzen",
+      "AzureAdPermissions": {
+        "ErrorMissingAdPermissions": "Die erforderlichen Berechtigungen wurden nicht erteilt. Bitte klicken Sie auf die Schaltfläche, um die Berechtigung zu erteilen."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "FormRollup": {
+          "Title": "Formular Zusammenfassung",
+          "Description": ""
+        }
+      },
+      "RecurringSetting": {
+        "Daily": "Täglich",
+        "Weekly": "Wöchentlich",
+        "Monthly": "Monatlich",
+        "Never": "Nie",
+        "Title": "Titel",
+        "Description": "Beschreibung",
+        "FeedbackEmail": "Feedback E-Mail",
+        "Levels": "Stufen",
+        "WeakLevelPercentage": "Prozentsatz Stufe - Schwach",
+        "GoodLevelPercentage": "Prozentsatz Stufe - Gut",
+        "EveryWeekday": "Jeden Wochentag",
+        "Every": "Jeden",
+        "Days": "Tag(e)",
+        "Weeks": "Woche(n)",
+        "Months": "Monat(e)",
+        "DayOfWeeks": {
+          "Monday": "Montag",
+          "Tuesday": "Dienstag",
+          "Wednesday": "Mittwoch",
+          "Thursday": "Donnerstag",
+          "Friday": "Freitag",
+          "Saturday": "Samstag",
+          "Sunday": "Sonntag",
+          "Day": "Tag",
+          "Weekday": "Wochentag",
+          "WeekendDay": "Wochenendtag"
+        },
+        "Day": "Tag",
+        "OfEvery": "von jedem",
+        "The": "Der",
+        "WeekOfMonth": {
+          "First": "Erster",
+          "Second": "Zweiter",
+          "Third": "Dritter",
+          "Fourth": "Vierter",
+          "Last": "Letzter"
+        },
+        "StartDate": "Startdatum",
+        "NoEndDate": "Kein Enddatum",
+        "EndBy": "Endet am",
+        "SentOutTimeText": "Zu welcher Zeit soll die Genehmigungsanfrage versendet werden?",
+        "InvalidDayRange": "Tag ist ungültig"
+      }
+    },
+    "Forms": {
+      "Poll": "Umfrage",
+      "Survey": "Umfrage",
+      "Checkup": "Check-up",
+      "Template": "Vorlage",
+      "AddQuestion": "Frage hinzufügen",
+      "CreateForm": "Formular erstellen",
+      "LimitResponseTime": {
+        "Title": "Antwortzeit begrenzen",
+        "BeforeStartTimeMessage": "Dieses Formular ist ab [[Datum]] um [[Uhrzeit]] für Antworten geöffnet.",
+        "AfterEndTimeMessage": "Dieses Formular ist für Antworten geschlossen."
+      },
+      "Scope": {
+        "Title": "Umfang",
+        "CurrentApp": "[[Aktuelle App]]"
+      },
+      "ScopeType": {
+        "Title": "Umfangstyp",
+        "App": "App",
+        "BusinessProfile": "Unternehmensprofil"
+      },
+      "ActionButton": {
+        "AddQuestion": "Frage hinzufügen"
+      },
+      "Admin": {
+        "EditForm": {
+          "WhenClosed": "Wenn geschlossen",
+          "AllowMultiQuestions": "Mehrere Fragen zulassen",
+          "ShowFormSettings": "Formulareinstellungen anzeigen"
+        },
+        "CustomChartColors": "Benutzerdefinierte Diagrammfarben",
+        "Templates": "Vorlagen",
+        "Types": "Typen",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Formularvorlage entfernen",
+          "Message": "Möchten Sie diese Formularvorlage wirklich entfernen?",
+          "ErrorMessageWithTemplateIsInUse": "Die Formularvorlage wird derzeit verwendet und kann nicht gelöscht werden. Stellen Sie bitte sicher, dass keine Formulare und Formulartypen verwendet werden, bevor Sie erneut versuchen, sie zu löschen."
+        },
+        "PropertySet": "Eigenschaftensatz",
+        "RemoveFormTypeConfirmation": {
+          "Title": "Formulartyp entfernen",
+          "Message": "Möchten Sie diesen Formulartyp wirklich entfernen?",
+          "ErrorMessageTypeInUse": "Der Formulartyp wird derzeit verwendet und kann nicht gelöscht werden. Stellen Sie bitte sicher, dass keine Formulare verwendet werden, bevor Sie erneut versuchen, ihn zu löschen."
+        },
+        "AddFilter": "Filter hinzufügen",
+        "Display": "Anzeigen",
+        "Filter": "Filter",
+        "Query": "Abfrage",
+        "Scope": "Umfang",
+        "QueryScope": {
+          "Tenant": "Mandant",
+          "BusinessProfiles": "Unternehmensprofile",
+          "Apps": "Apps"
+        }
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Formularansicht",
+          "ListView": "Listenansicht",
+          "NoResultText": "Kein Ergebnistext",
+          "PagingType": {
+            "NoPaging": "Keine Seitenumbrüche",
+            "Classic": "Klassisch",
+            "Scroll": "Scrollen"
+          },
+          "Paging": "Seitenumbrüche",
+          "SortBy": "Sortieren nach",
+          "View": "Ansicht",
+          "PageSize": "Seitengröße",
+          "AddColumn": "Spalte hinzufügen",
+          "DateFormat": "Format",
+          "Width": "Breite",
+          "CustomLabel": "Benutzerdefiniertes Label",
+          "ShowLabel": "Label anzeigen",
+          "DragAndDrop": "Drag & Drop"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "Scope": "Umfang"
+        }
+      },
+      "Status": "Status",
+      "ErrorMessages": {
+        "Unauthorized": "Sie sind nicht berechtigt, die Umfrage an diesem Ort zu erstellen."
+      }
+    },
+    "SignOffRequest": {
+      "UpdateRequest": "Anfrage aktualisieren",
+      "ScheduleSendOut": "Senden planen",
+      "InvalidDate": "Ungültiges Datum",
+      "Button": {
+        "SendRequest": "Anfrage senden"
+      },
+      "Dialog": {
+        "DeleteRecurrenceTitle": "Wiederkehrende Sign-off-Anfrage löschen",
+        "DeleteRecurrenceMessage": "Möchten Sie diese wiederkehrende Anfrage wirklich löschen?"
+      },
+      "RequestStatus": {
+        "Scheduled": "Geplant"
+      },
+      "RecurringRequests": {
+        "Title": "Wiederkehrende Anfragen",
+        "Name": "Name",
+        "NextRequest": "Nächste Anfrage",
+        "SafetyInspection": "Sicherheitsüberprüfung",
+        "SentOutTimeTitle": "Zu welcher Zeit soll die Genehmigungsanfrage versendet werden?",
+        "Save": "Speichern",
+        "RecurringSetting": "Wiederkehrende Einstellung"
+      },
+      "RecurringInfo": {
+        "EveryDay": "Alle {0} Tag(e) ausführen",
+        "EveryWeekday": "Jeden Wochentag ausführen",
+        "EveryWeek": "Alle {0} Woche(n) am {1} ausführen",
+        "DayOfMonth": "Am Tag {0} jedes {1} Monat(e) ausführen",
+        "WeekDayOfMonth": "Am {0} {1} jedes {2} Monat(e) ausführen",
+        "PleaseSelectRecurrence": "Bitte wählen Sie die Wiederholungseinstellung"
+      }
+    },
+    "UserManagement": {
+      "Users": {
+        "Scope": "Umfang",
+        "ScopeType": "Umfangstyp",
+        "ChangeScope": {
+          "Button": "Umfang ändern",
+          "Tenant": "Mandant",
+          "BusinessProfile": "Unternehmensprofil",
+          "Group": "Gruppe"
+        },
+        "ApprovalCommentTitle": "Kommentar an Benutzer senden"
+      },
+      "Groups": {
+        "DeleteGroupsErrorMessageGroupsInUse": "Eine odermehrere Gruppen können nicht gelöscht werden, da sie Benutzer mit Gruppenumfang haben. Bitte heben Sie die Auswahl dieser Gruppen auf und versuchen Sie es erneut.",
+        "DeleteGroupErrorMessageGroupInUse": "Diese Gruppe hat Benutzer unter ihrem Umfang erstellt. Bitte löschen Sie alle diese Benutzer, um sie zu löschen.",
+        "Scope": "Umfang",
+        "Owners": "Besitzer",
+        "AddExistingUser": "Vorhandenen Benutzer hinzufügen",
+        "CreateAndAddNewUser": "Benutzer erstellen und hinzufügen"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Bitte stellen Sie sicher, dass der aktuelle Benutzer Mitglied des Gruppenbesitzers ist, um diese Aktion auszuführen"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Einrichten der Sharepoint-Teamsite-Vorlage"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "Scope": "Umfang",
+        "ScopeType": "Umfangstyp"
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "Scope": "Umfang",
+          "ScopeType": "Umfangstyp"
+        },
+        "ScopeTypes": {
+          "Tenant": "Mandant",
+          "BusinessProfile": "Unternehmensprofil",
+          "Group": "Gruppe"
+        }
+      }
+    }
+  }
+}
