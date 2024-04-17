@@ -1,0 +1,248 @@
+{
+  "OTAD": {
+    "QueryableProperties": {
+      "Forms": "Biểu mẫu"
+    },
+    "System": {
+      "TenantContact": {
+        "UserSyncContacts": "Đồng bộ danh bạ người dùng",
+        "ExternalUserSyncContactEmail": "Thêm Email liên hệ đồng bộ người dùng bên ngoài"
+      },
+      "Licenses": "Giấy phép",
+      "AzureAdPermissions": {
+        "ErrorMissingAdPermissions": "Quyền cần thiết chưa được đồng ý. Vui lòng nhấp vào nút để đồng ý quyền."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "FormRollup": {
+          "Title": "Tổng hợp biểu mẫu",
+          "Description": ""
+        }
+      },
+      "RecurringSetting": {
+        "Daily": "Hàng ngày",
+        "Weekly": "Hàng tuần",
+        "Monthly": "Hàng tháng",
+        "Never": "Không bao giờ",
+        "Title": "Tiêu đề",
+        "Description": "Mô tả",
+        "FeedbackEmail": "Email phản hồi",
+        "Levels": "Cấp độ",
+        "WeakLevelPercentage": "Tỷ lệ cấp độ yếu",
+        "GoodLevelPercentage": "Tỷ lệ cấp độ tốt",
+        "EveryWeekday": "Mỗi ngày trong tuần",
+        "Every": "Mỗi",
+        "Days": "ngày",
+        "Weeks": "tuần",
+        "Months": "tháng",
+        "DayOfWeeks": {
+          "Monday": "Thứ Hai",
+          "Tuesday": "Thứ Ba",
+          "Wednesday": "Thứ Tư",
+          "Thursday": "Thứ Năm",
+          "Friday": "Thứ Sáu",
+          "Saturday": "Thứ Bảy",
+          "Sunday": "Chủ Nhật",
+          "Day": "Ngày",
+          "Weekday": "Ngày trong tuần",
+          "WeekendDay": "Ngày cuối tuần"
+        },
+        "Day": "Ngày",
+        "OfEvery": "của mỗi",
+        "The": "Ngày",
+        "WeekOfMonth": {
+          "First": "Thứ nhất",
+          "Second": "Thứ hai",
+          "Third": "Thứ ba",
+          "Fourth": "Thứ tư",
+          "Last": "Cuối cùng"
+        },
+        "StartDate": "Ngày bắt đầu",
+        "NoEndDate": "Không có ngày kết thúc",
+        "EndBy": "Kết thúc bởi",
+        "SentOutTimeText": "Bạn muốn gửi yêu cầu ký duyệt vào thời gian nào?",
+        "InvalidDayRange": "Ngày không hợp lệ"
+      }
+    },
+    "Forms": {
+      "Poll": "Bình chọn",
+      "Survey": "Khảo sát",
+      "Checkup": "Kiểm tra",
+      "Template": "Mẫu",
+      "AddQuestion": "Thêm câu hỏi",
+      "CreateForm": "Tạo biểu mẫu",
+      "LimitResponseTime": {
+        "Title": "Giới hạn thời gian phản hồi",
+        "BeforeStartTimeMessage": "Biểu mẫu nàysẽ mở để nhận phản hồi vào [[Ngày]] lúc [[Thời gian]].",
+        "AfterEndTimeMessage": "Biểu mẫu này đã đóng để nhận phản hồi."
+      },
+      "Scope": {
+        "Title": "Phạm vi",
+        "CurrentApp": "[[Ứng dụng hiện tại]]"
+      },
+      "ScopeType": {
+        "Title": "Loại phạm vi",
+        "App": "Ứng dụng",
+        "BusinessProfile": "Hồ sơ doanh nghiệp"
+      },
+      "ActionButton": {
+        "AddQuestion": "Thêm câu hỏi"
+      },
+      "Admin": {
+        "EditForm": {
+          "WhenClosed": "Khi đóng",
+          "AllowMultiQuestions": "Cho phép nhiều câu hỏi",
+          "ShowFormSettings": "Hiển thị cài đặt biểu mẫu"
+        },
+        "CustomChartColors": "Màu sắc biểu đồ tùy chỉnh",
+        "Templates": "Mẫu",
+        "Types": "Loại",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Xóa mẫu biểu mẫu",
+          "Message": "Bạn có chắc chắn muốn xóa mẫu biểu mẫu này không?",
+          "ErrorMessageWithTemplateIsInUse": "Mẫu biểu mẫu hiện đang được sử dụng và không thể xóa. Vui lòng đảm bảo rằng không có biểu mẫu và loại biểu mẫu nào được sử dụng cho mẫu biểu mẫu này trướckhi thử xóa lại."
+        },
+        "PropertySet": "Bộ thuộc tính",
+        "RemoveFormTypeConfirmation": {
+          "Title": "Xóa loại biểu mẫu",
+          "Message": "Bạn có chắc chắn muốn xóa loại biểu mẫu này không?",
+          "ErrorMessageTypeInUse": "Loại biểu mẫu hiện đang được sử dụng và không thể xóa. Vui lòng đảm bảo rằng không có biểu mẫu nào được sử dụng cho loại biểu mẫu này trước khi thử xóa lại."
+        },
+        "AddFilter": "Thêm bộ lọc",
+        "Display": "Hiển thị",
+        "Filter": "Bộ lọc",
+        "Query": "Truy vấn",
+        "Scope": "Phạm vi",
+        "QueryScope": {
+          "Tenant": "Người thuê",
+          "BusinessProfiles": "Hồ sơ doanh nghiệp",
+          "Apps": "Ứng dụng"
+        }
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Xem biểu mẫu",
+          "ListView": "Xem danh sách",
+          "NoResultText": "Không có kết quả",
+          "PagingType": {
+            "NoPaging": "Không phân trang",
+            "Classic": "Phân trang cổ điển",
+            "Scroll": "Cuộn"
+          },
+          "Paging": "Phân trang",
+          "SortBy": "Sắp xếp theo",
+          "View": "Xem",
+          "PageSize": "Kích thước trang",
+          "AddColumn": "Thêm cột",
+          "DateFormat": "Định dạng",
+          "Width": "Chiều rộng",
+          "CustomLabel": "Nhãn tùy chỉnh",
+          "ShowLabel": "Hiển thị nhãn",
+          "DragAndDrop": "Kéo và thả"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "Scope": "Phạm vi"
+        }
+      },
+      "Status": "Trạng thái",
+      "ErrorMessages": {
+        "Unauthorized": "Bạn không được phép tạo bình chọn tại vị trí này."
+      }
+    },
+    "SignOffRequest": {
+      "UpdateRequest": "Cập nhật yêu cầu",
+      "ScheduleSendOut": "Lên lịch gửi yêu cầu",
+      "InvalidDate": "Ngày không hợp lệ",
+      "Button": {
+        "SendRequest": "Gửi yêu cầu"
+      },
+      "Dialog": {
+        "DeleteRecurrenceTitle": "Xóa yêu cầu ký duyệt định kỳ",
+        "DeleteRecurrenceMessage": "Bạn có chắc chắn muốn xóa yêu cầu định kỳ này không?"
+      },
+      "RequestStatus": {
+        "Scheduled": "Đã lên lịch"
+      },
+      "RecurringRequests": {
+        "Title": "Yêu cầu định kỳ",
+        "Name": "Tên",
+        "NextRequest": "Yêu cầu tiếp theo",
+        "SafetyInspection": "Kiểm tra an toàn",
+        "SentOutTimeTitle": "Bạn muốn gửi yêu cầu ký duyệt vào thời gian nào?",
+        "Save": "Lưu",
+        "RecurringSetting": "Cài đặt định kỳ"
+      },
+      "RecurringInfo": {
+        "EveryDay": "Chạy hàng ngày mỗi {0} ngày",
+        "EveryWeekday": "Chạy hàng ngày trong tuần",
+        "EveryWeek": "Chạy hàng tuần mỗi {0} tuần vào {1}",
+        "DayOfMonth": "Chạy vào ngày {0} của mỗi {1} tháng",
+        "WeekDayOfMonth": "Chạy vào {0} {1} của mỗi {2} tháng",
+        "PleaseSelectRecurrence": "Vui lòng chọn cài đặt định kỳ"
+      }
+    },
+    "UserManagement": {
+      "Users": {
+        "Scope": "Phạm vi",
+        "ScopeType": "Loại phạm vi",
+        "ChangeScope": {
+          "Button": "Thay đổi phạm vi",
+          "Tenant": "Người thuê",
+          "BusinessProfile": "Hồ sơ doanh nghiệp",
+          "Group": "Nhóm"
+        },
+        "ApprovalCommentTitle": "Bình luận gửi cho người dùng"
+      },
+      "Groups": {
+        "DeleteGroupsErrorMessageGroupsInUse": "Một hoặc nhiều nhóm không thể xóa vì có người dùng được phạm vi nhóm. Vui lòng bỏ chọn những nhóm này và thử lại.",
+        "DeleteGroupErrorMessageGroupInUse": "Nhóm này có một số người dùng được tạo dưới phạm vi của nó. Vui lòng xóa tất cả những người dùng này để xóa nhóm.",
+        "Scope": "Phạm vi",
+        "Owners": "Chủ sở hữu",
+        "AddExistingUser": "Thêm người dùng hiện có",
+        "CreateAndAddNewUser": "Tạo và thêm người dùng mới"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Vui lòng đảm bảo rằng người dùng hiện tại là thành viên của chủ sở hữu nhóm để thực hiện thao tác này"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Cài đặt mẫu Sharepoint teamsite"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "Scope": "Phạm vi",
+        "ScopeType": "Loại phạm vi"
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "Scope": "Phạm vi",
+          "ScopeType": "Loại phạm vi"
+        },
+        "ScopeTypes": {
+          "Tenant": "Người thuê",
+          "BusinessProfile": "Hồ sơ doanh nghiệp",
+          "Group": "Nhóm"
+        }
+      }
+    }
+  }
+}
