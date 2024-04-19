@@ -1,0 +1,12 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Poista kysymys",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Muokkaa kysymyksiä tätä lomakettavarten vain Omnia Adminissa."
+        }
+      }
+    }
+  }
+}

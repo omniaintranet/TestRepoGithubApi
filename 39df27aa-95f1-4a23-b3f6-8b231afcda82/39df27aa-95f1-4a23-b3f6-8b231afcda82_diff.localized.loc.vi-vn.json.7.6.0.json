@@ -1,0 +1,12 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Xóa Câu hỏi",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vui lòng chỉnh sửa các câu hỏi cho biểu mẫu này trong Omnia Admin."
+        }
+      }
+    }
+  }
+}

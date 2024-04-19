@@ -1,0 +1,12 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Slett spørsmål",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vennligst rediger spørsmålene for dette skjemaet i Omnia Admin."
+        }
+      }
+    }
+  }
+}
