@@ -1,0 +1,18 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Poista kysymys",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Muokkaa kysymyksiä vain Omnia Adminissa."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Pyyntöpohjaa käytetään tällä hetkellä eikä sitä voi poistaa. Varmista, ettei pyyntöpohjaa käytetä missään pyynnöissä tai toistuvissa pyynnöissä ennen poistamisyritystä.",
+        "ErrorMessageTypeInUse": "Pyyntötyyppiä käytetään tällä hetkellä eikä sitä voi poistaa. Varmista, ettei pyyntötyyppiä käytetä missään pyynnöissä tai toistuvissa pyynnöissä ennen poistamisyritystä."
+      }
+    }
+  }
+}

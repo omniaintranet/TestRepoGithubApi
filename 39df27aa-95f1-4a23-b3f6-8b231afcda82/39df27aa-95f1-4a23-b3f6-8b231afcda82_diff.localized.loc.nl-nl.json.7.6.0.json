@@ -1,0 +1,18 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Verwijder vraag",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Bewerk de vragen voor dit formulieralleen in Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Het verzoeksjabloon is momenteel in gebruik en kan niet worden verwijderd. Zorg ervoor dat er geen verzoeken/herhalende verzoeken zijn die dit verzoeksjabloon gebruiken voordat u opnieuw probeert te verwijderen.",
+        "ErrorMessageTypeInUse": "Het verzoekstype is momenteel in gebruik en kan niet worden verwijderd. Zorg ervoor dat er geen verzoeken/herhalende verzoeken zijn die dit verzoekstype gebruiken voordat u opnieuw probeert te verwijderen."
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Ta bort fråga",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vänligen redigera frågorna för detta formulär i Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Mallförfrågan används för närvarande och kan inte tas bort. Se till att det inte finns någraförfrågningar/återkommande förfrågningar som använder denna mallförfrågan innan du försöker ta bort den igen.",
+        "ErrorMessageTypeInUse": "Förfrågningstypen används för närvarande och kan inte tas bort. Se till att det inte finns några förfrågningar/återkommande förfrågningar som använder denna förfrågningstyp innan du försöker ta bort den igen."
+      }
+    }
+  }
+}

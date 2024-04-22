@@ -1,0 +1,18 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Delete Question",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Please edit the questions for this form in Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "The request template is currently in use and cannot be deleted. Please ensure that there areno requests/recurring requests used with this request template before attemptingto delete it again.",
+        "ErrorMessageTypeInUse": "The request type is currently in use and cannot be deleted. Please ensure that there are no requests/recurring requests used with this request type before attempting to delete it again."
+      }
+    }
+  }
+}

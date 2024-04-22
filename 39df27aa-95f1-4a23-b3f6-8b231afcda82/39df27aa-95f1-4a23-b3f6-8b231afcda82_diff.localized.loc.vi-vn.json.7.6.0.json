@@ -1,0 +1,18 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Xóa Câu hỏi",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vui lòng chỉnh sửa các câu hỏi cho biểu mẫu này trong Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Biểu mẫu yêucầu hiện đang được sử dụng và không thể xóa. Vui lòng đảm bảo rằng không có yêu cầu/ yêu cầu định kỳ nào được sử dụng cho biểu mẫu yêu cầu này trước khi thử xóalại.",
+        "ErrorMessageTypeInUse": "Loại yêu cầu hiện đang được sử dụng và không thể xóa. Vui lòng đảm bảo rằng không có yêu cầu/ yêu cầu định kỳ nào được sử dụng cho loại yêu cầu này trước khi thử xóa lại."
+      }
+    }
+  }
+}
