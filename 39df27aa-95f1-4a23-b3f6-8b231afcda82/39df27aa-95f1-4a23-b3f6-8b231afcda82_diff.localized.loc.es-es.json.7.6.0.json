@@ -1,0 +1,18 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "DeleteQuestion": "Eliminar pregunta",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Por favor, edita las preguntas de este formulario en Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "La plantillade solicitud está actualmente en uso y no se puede eliminar. Asegúrate de que nohaya solicitudes o solicitudes recurrentes que utilicen esta plantilla de solicitud antes de intentar eliminarla nuevamente.",
+        "ErrorMessageTypeInUse": "El tipo de solicitud está actualmente en uso y no se puede eliminar. Asegúrate de que no haya solicitudes o solicitudes recurrentes que utilicen este tipo de solicitud antes de intentar eliminarlo nuevamente."
+      }
+    }
+  }
+}
