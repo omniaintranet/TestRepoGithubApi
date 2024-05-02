@@ -1,0 +1,51 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "errors": {
+          "permissionMissing": "U heeft niet de vereiste machtigingen. Alleen Tenant-beheerders hebbentoegang tot deze functie."
+        }
+      }
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Goedkeuringsverzoek",
+          "Description": "Schakel goedkeuringsverzoeken in.",
+          "Category": "Systeem"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Verwijder vraag",
+      "ExportToExcel": "Exporteren naar Excel",
+      "Scope": {
+        "CurrentBusinessProfile": "[[Huidig bedrijfsprofiel]]"
+      },
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Bewerk de vragen voor dit formulier alleen in Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Einddatum moet groter zijn dan startdatum"
+        }
+      },
+      "Renderer": {
+        "ShowFormImage": "Toon formulierafbeelding"
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "StartDate": "Startdatum",
+          "EndDate": "Einddatum",
+          "Status": "Status"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Het verzoeksjabloon is momenteel in gebruik en kan niet worden verwijderd. Zorg ervoor dat er geen verzoeken/herhalende verzoeken zijn die dit verzoeksjabloon gebruiken voordat u het opnieuw probeert te verwijderen.",
+        "ErrorMessageTypeInUse": "Het verzoekstype is momenteel in gebruik en kan niet worden verwijderd. Zorg ervoor dat er geen verzoeken/herhalende verzoeken zijn die dit verzoekstype gebruiken voordat u het opnieuw probeert te verwijderen."
+      }
+    }
+  }
+}
