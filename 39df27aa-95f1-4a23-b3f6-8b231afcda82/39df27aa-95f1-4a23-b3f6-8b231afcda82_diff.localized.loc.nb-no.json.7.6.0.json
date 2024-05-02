@@ -1,0 +1,51 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "errors": {
+          "permissionMissing": "Du har ikke nødvendige tillatelser. Kun leietakeradministratorer har tilgang til denne funksjonen."
+        }
+      }
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Godkjenningsforespørsel",
+          "Description": "Aktiver godkjenningsforespørsler.",
+          "Category": "System"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Slett spørsmål",
+      "ExportToExcel": "Eksporter til Excel",
+      "Scope": {
+        "CurrentBusinessProfile": "[[Gjeldende forretningsprofil]]"
+      },
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vennligst rediger spørsmålene for dette skjemaet i Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Sluttdato må være større enn startdato"
+        }
+      },
+      "Renderer": {
+        "ShowFormImage": "Vis skjemabilde"
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "StartDate": "Startdato",
+          "EndDate": "Sluttdato",
+          "Status": "Status"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Forespørselstemplaten er for øyeblikket i bruk og kan ikke slettes. Sørg for at det ikke er noen forespørsler/gjentakende forespørsler som bruker denne forespørselstemplaten før du prøver å slette den på nytt.",
+        "ErrorMessageTypeInUse": "Forespørselfypen er for øyeblikket i bruk og kanikke slettes. Sørg for at det ikke er noen forespørsler/gjentakende forespørslersom bruker denne forespørselfypen før du prøver å slette den på nytt."
+      }
+    }
+  }
+}
