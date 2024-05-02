@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Du skal være en site-samlingadministrator for dette websted.",
+          "UnableToSetSiteSelectedPermission": "Kan ikke indstille valgte tilladelser for denne site."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Område"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Vælg underordnede termer"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Valgte medier"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Autoplay"
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "De nødvendige tilladelser er ikke godkendt. Klik venligst på knappen for at give tilladelsen."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Din e-mail er blevet bekræftet, og din konto er blevet oprettet. Du vil nu blive omdirigeret til onboarding.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Din e-mail er blevet bekræftet, og din konto er blevet sendt til godkendelse. Du kan lukke denne side."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Visning",
+        "HideForgotPassword": "Skjul glemt adgangskode"
+      }
+    }
+  }
+}

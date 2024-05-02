@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "Messages": {
+          "SiteCollectionAdministratorsPermissionMissing": "Sinun on oltava tämän sivuston kokoelman ylläpitäjä.",
+          "UnableToSetSiteSelectedPermission": "Ei voi asettaa sivuston valittua käyttöoikeutta."
+        }
+      },
+      "Properties": {
+        "Definitions": {
+          "Scope": "Laajuus"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SelectChildTerms": "Valitse alatermit"
+        }
+      },
+      "MediaPicker": {
+        "SelectedMedias": "Valitut mediat"
+      },
+      "SharePointVideoSettings": {
+        "AutoPlay": "Automaattinen toisto"
+      }
+    },
+    "Features": {
+      "ErrorMissingAdPermissions": "Vaaditut käyttöoikeudet eivät ole hyväksyttyjä. Klikkaa painiketta hyväksyäksesi käyttöoikeudet."
+    },
+    "MagicLink": {
+      "ConfirmedEmailOnRequestSetupMessage": "Sähköpostisi on vahvistettu ja tili luotu. Sinut ohjataan nyt käyttöönottoon.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Sähköpostisi on vahvistettu ja käyttäjätilisi on lähetetty hyväksyttäväksi. Voit sulkea tämän sivun."
+    },
+    "SignIn": {
+      "Settings": {
+        "DisplaySection": "Näyttö",
+        "HideForgotPassword": "Piilota unohtunut salasana"
+      }
+    }
+  }
+}
