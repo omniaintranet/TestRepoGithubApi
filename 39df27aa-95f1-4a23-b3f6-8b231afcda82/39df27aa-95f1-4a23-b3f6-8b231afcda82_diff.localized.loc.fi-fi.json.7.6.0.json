@@ -1,0 +1,51 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "errors": {
+          "permissionMissing": "Sinulla ei ole tarvittavia käyttöoikeuksia. Vain Tenantin hallinnolla on pääsy tähän ominaisuuteen."
+        }
+      }
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Hyväksyntäpyyntö",
+          "Description": "Ota käyttöön hyväksyntäpyynnöt.",
+          "Category": "Järjestelmä"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Poista kysymys",
+      "ExportToExcel": "Vie Exceliin",
+      "Scope": {
+        "CurrentBusinessProfile": "[[Nykyinen yritysprofiili]]"
+      },
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Muokkaa kysymyksiä tähän lomakkeeseen vain Omnia Adminissa."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Päättymispäivän on oltava suurempi kuin alkamispäivä"
+        }
+      },
+      "Renderer": {
+        "ShowFormImage": "Näytä lomakkeen kuva"
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "StartDate": "Aloituspäivä",
+          "EndDate": "Päättymispäivä",
+          "Status": "Tila"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Pyyntöpohjaa käytetään tällä hetkellä eikä sitä voi poistaa. Varmista, ettei pyyntöpohjaa käytetä ennen sen uudelleen poistamista.",
+        "ErrorMessageTypeInUse": "Pyyntötyyppiä käytetään tällä hetkellä eikä sitä voi poistaa. Varmista, ettei pyyntötyyppiä käytetä ennen sen uudelleenpoistamista."
+      }
+    }
+  }
+}

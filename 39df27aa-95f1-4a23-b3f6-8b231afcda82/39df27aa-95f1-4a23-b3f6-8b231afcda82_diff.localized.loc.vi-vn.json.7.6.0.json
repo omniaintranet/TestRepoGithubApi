@@ -1,0 +1,51 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "errors": {
+          "permissionMissing": "Bạn không có quyền truy cập. Chỉ có Quản trị viên Tenant mới có thể truy cập tính năng này"
+        }
+      }
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Yêu cầu ký duyệt",
+          "Description": "Cho phép yêu cầu ký duyệt.",
+          "Category": "Hệ thống"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Xóa Câu hỏi",
+      "ExportToExcel": "Xuất ra Excel",
+      "Scope": {
+        "CurrentBusinessProfile": "[[Hồ sơ doanh nghiệp hiện tại]]"
+      },
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vui lòng chỉnh sửa câu hỏi cho biểu mẫu này trong Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Ngày kết thúc phảilớn hơn ngày bắt đầu"
+        }
+      },
+      "Renderer": {
+        "ShowFormImage": "Hiển thị hình ảnh biểu mẫu"
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "StartDate": "Ngày bắt đầu",
+          "EndDate": "Ngày kết thúc",
+          "Status": "Trạng thái"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Mẫu yêu cầu hiện đang được sử dụng và không thể xóa. Vui lòng đảm bảo rằng không có yêu cầu / yêu cầu định kỳ nào được sử dụng cho mẫu yêu cầu này trước khi thử xóa lại.",
+        "ErrorMessageTypeInUse": "Loại yêu cầu hiện đang được sử dụng và không thể xóa. Vui lòng đảm bảo rằng không có yêu cầu / yêu cầu định kỳ nào được sử dụng cho loại yêu cầu này trước khi thử xóa lại."
+      }
+    }
+  }
+}

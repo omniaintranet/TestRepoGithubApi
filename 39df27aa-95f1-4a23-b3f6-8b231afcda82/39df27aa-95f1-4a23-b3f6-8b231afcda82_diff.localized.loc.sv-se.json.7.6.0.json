@@ -1,0 +1,51 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "errors": {
+          "permissionMissing": "Du har inte de nödvändiga behörigheterna. Endast Tenant Administrations har åtkomst till den här funktionen"
+        }
+      }
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Signeringsbegäran",
+          "Description": "Aktivera signeringsbegäranden.",
+          "Category": "System"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Ta bortfråga",
+      "ExportToExcel": "Exportera till Excel",
+      "Scope": {
+        "CurrentBusinessProfile": "[[Aktuell företagsprofil]]"
+      },
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Redigera frågorna för detta formulär i Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Slutdatum måste vara större än startdatum"
+        }
+      },
+      "Renderer": {
+        "ShowFormImage": "Visa formulärbild"
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "StartDate": "Startdatum",
+          "EndDate": "Slutdatum",
+          "Status": "Status"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Begärandemallen används för närvarande och kan inte tas bort. Se till att det inte finns några begäranden/återkommande begäranden som använderdenna begärandemall innan du försöker ta bort den igen.",
+        "ErrorMessageTypeInUse": "Begärandetypen används för närvarande och kan inte tas bort. Se till att det inte finns några begäranden/återkommande begäranden som använder denna begärandetyp innan du försöker ta bort den igen."
+      }
+    }
+  }
+}
