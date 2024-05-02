@@ -1,0 +1,51 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "errors": {
+          "permissionMissing": "Sie haben nicht die erforderlichen Berechtigungen. Nur Tenant-Administratoren haben Zugriff auf diese Funktion."
+        }
+      }
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Sign-off-Anfrage",
+          "Description": "Aktivieren Sie Sign-off-Anfragen.",
+          "Category": "System"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Frage löschen",
+      "ExportToExcel": "In Excel exportieren",
+      "Scope": {
+        "CurrentBusinessProfile": "[[Aktuelles Geschäftsprofil]]"
+      },
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Bitte bearbeiten Sie die Fragen für dieses Formular in Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Das Enddatum muss größer als das Startdatum sein"
+        }
+      },
+      "Renderer": {
+        "ShowFormImage": "Formularbild anzeigen"
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "StartDate": "Startdatum",
+          "EndDate": "Enddatum",
+          "Status": "Status"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Die Anfragenvorlage wird derzeit verwendet und kann nicht gelöscht werden. Stellen Sie bitte sicher, dass keine Anfragen/ wiederkehrende Anfragen diese Anfragenvorlage verwenden, bevor Sie erneut versuchen, sie zu löschen.",
+        "ErrorMessageTypeInUse": "Der Anfragetyp wird derzeit verwendet und kann nicht gelöscht werden. Stellen Sie bitte sicher, dass keine Anfragen/ wiederkehrende Anfragen diesen Anfragetyp verwenden, bevor Sie erneut versuchen,ihn zu löschen."
+      }
+    }
+  }
+}
